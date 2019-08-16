@@ -24,9 +24,9 @@ publishDir = "docs"
   title = "Vera Oliveira"
   subtitle = "Peregrina, Artesã, Mestre REIKI!"
   mdtext = '''
-Currently trying to get this blog running, still don't know what the blog will be about!\
-**This textblock is a demonstration of the mdtext-param.**\
-### This is a markdown heading
+Blog Pessoal com detalhes de cursos, viagens e mandalas!\
+**Venha comigo por este caminho de vida plena.**\
+### O Caminhar
 '''
   alertbar = false
 
