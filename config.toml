@@ -1,0 +1,48 @@
+baseURL = "/"
+languageCode = "pt-BR"
+title = "O Caminhar"
+theme = "mediumish-gohugo-theme"
+summaryLength = 10
+copyright = "Vera Oliveira - All rights reserved"
+enableEmoji = true
+publishDir = "docs"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  logo = "/images/logo.png"
+  description ="Viajando com a Vera!"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "Vera Oliveira"
+  thumbnail = "/images/author.png"
+  description = "Peregrina deste blog."
+
+[params.index]
+  picture = "/images/foto.jpg"
+  title = "Vera Oliveira"
+  subtitle = "Peregrina, Artesã, Mestre REIKI!"
+  mdtext = '''
+Currently trying to get this blog running, still don't know what the blog will be about!\
+**This textblock is a demonstration of the mdtext-param.**\
+### This is a markdown heading
+'''
+  alertbar = false
+
+[params.social]
+  facebook = "reikivera"
+  linkedin = "vera-lucia-de-oliveira-32100315b"
+  instagram = "veralucia.oliveira63"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "Sobre mim"
+    identifier = "about"
+    weight = 200
+    url = "/"
