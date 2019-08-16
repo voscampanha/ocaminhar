@@ -1,4 +1,4 @@
-baseURL = "ocaminhar.netlify.com/"
+baseURL = "/"
 languageCode = "pt-BR"
 title = "O Caminhar"
 theme = "mediumish-gohugo-theme"
