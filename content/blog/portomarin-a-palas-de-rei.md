@@ -6,6 +6,7 @@ image: "/images/blog/3.jpg"
 tags:
 - santiago de compostela
 comments: false
+imagepost: false
 
 ---
 No quarto dia amanheceu mais frio, saímos de Portomarín sem chuva e pela primeira vez vi José e Milena, ele bem carinhoso ajeitando a mochila dela.
