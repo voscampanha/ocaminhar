@@ -3,7 +3,7 @@ title: "Onde estão as estrelas?"
 date: 2019-05-21T11:17:14+04:00
 publishdate: 2019-05-21T11:17:14+04:00
 image: "/images/blog/1.jpg"
-image-post: true
+imagepost: true
 tags: ["santiago de compostela"]
 comments: false
 ---
