@@ -96,4 +96,6 @@ Enfim…
 
 Encontramos o albergue já bem tarde, perto das 19 horas e conseguimos as últimas vagas, tivemos que tomar um banho rápido porque o local de alimentação e o Albergue fechavam bem cedo e ainda bem que naquele dia, por causa de um jogo de futebol iria fechar um pouco mais tarde. Fomos comer e mais uma vez tomei sopa galega (de legumes – brócolis que me dá muitos gases) com pão, voltamos para o Albergue com uma chuva gelada ainda, o meu saco de dormir era para 5 graus e fazia menos de 2 graus, colocamos todas as nossas roupas molhadas para secar em cima do aquecedor, precisei vestir todos os agasalhos secos que tinha na mochila e ainda assim não fiquei confortável dentro do saco de dormir, não deu para relaxar e descansar direito e foi assim que terminou o primeiro dia.
 
+![](/images/blog/1_205654-1024x768.jpg)![](/images/blog/1_205700-e1558551129630-768x1024.jpg)
+
 Devo dizer para finalizar que na Europa no início de abril é primavera e que neve foi um fato atípico nesse período, conforme nos foi dito pelo caminho.
