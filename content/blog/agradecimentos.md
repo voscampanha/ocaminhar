@@ -6,6 +6,7 @@ image: "/images/blog/9.jpg"
 tags:
 - santiago de compostela
 comments: false
+imagepost: true
 
 ---
 Agradeço primeiramente a Deus, minhas filhas e toda minha família que acreditaram que eu seria capaz desta jornada, apesar da pouca resistência que tinha quando resolvi.
