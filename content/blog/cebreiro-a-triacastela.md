@@ -2,7 +2,7 @@
 title: Primeiro dia – O Cebreiro a Triacastela (06.04.19)
 date: 2019-05-22T07:39:10.000+00:00
 publishdate: 2019-05-22T07:39:10.000+00:00
-image: "/images/blog/2.jpg#img"
+image: "/images/blog/2.jpg"
 imagepost: false
 tags:
 - santiago de compostela
@@ -51,6 +51,8 @@ Cláudio sempre andando à frente e por um momento acredito que ele começou a o
 Até aquele momento, na minha cabeça eu estava dependendo de alguém, foi então que o primeiro aprendizado surgiu, percebi a importância de contar com outras pessoas, mas também da responsabilidade mútua e, no caso, de não ficar esperando apenas que o Cláudio ia fazer isso por mim, pelo fato ser uma pessoa cuidadora por natureza, já ter feito uma vez o Caminho de Compostela e ser cidadão europeu, vi que tinha que tomar as rédeas da situação.
 
 Encontrado o caminho entramos na neve fofa e funda seguindo a direção da vieira.
+
+![](/images/blog/1_112237.jpg#img-divide)![](/images/blog/1_124648-2.jpg#img-divide)
 
 A situação começou a ficar difícil porque em primeiro lugar não tínhamos equipamento próprio para caminhar na neve e ela estava muito fofa e funda, em alguns momentos a gente afundava o pé até o joelho e não sabíamos o que íamos encontrar lá embaixo, então tínhamos que andar muito devagar, bem andávamos também lentamente porque havia falta de força para caminhar, o esforço físico era grande para andar daquela forma. Após um tempo andando naquelas condições começamos a enrijecer de frio, ficamos com os pés molhados. Neste primeiro dia eu não conseguia precisar o quanto de tempo levava para percorrer o caminho, lembro que depois da etapa de neve fofa e funda a seta nos conduziu para um percurso que seguia ao lado da rodovia em um nível abaixo, digamos que talvez um metro e meio abaixo da rodovia, o Cláudio seguia na frente a uma boa distância de mim e da Isabel, devo esclarecer que ele tem uma resistência admirável e por isso tinha dificuldade de andar tão devagar como a gente, eu e a Isabel em fileira, eu na frente e ela atrás há uns dez ou quinze metros de distância quando de repente fui atingida por uma quantidade grande de neve que me jogou com força para o lado, quase caí morro abaixo, quando consegui aprumar-me olhei para trás e vi Isabel rindo e dizendo que era o caminhão que limpa a neve na estrada e joga para os lados e o motorista não nos viu porque estávamos em um nível mais abaixo.
 
