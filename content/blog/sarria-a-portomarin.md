@@ -6,6 +6,7 @@ image: "/images/blog/6.jpg"
 tags:
 - santiago de compostela
 comments: false
+imagepost: true
 
 ---
 No terceiro dia saímos de Sarria num bom horário, o dia estava lindo, maravilhoso, nos sentíamos em paz, conseguimos ter um bom descanso à noite o que nos proporcionou uma deliciosa sensação de bem estar convidando-nos ao deleite da incrível paisagem.
