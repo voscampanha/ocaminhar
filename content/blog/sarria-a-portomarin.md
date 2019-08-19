@@ -1,7 +1,7 @@
 ---
 title: Sarria a Portomarin (08.04.19)
-date: 2019-06-02T07:39:25.000+00:00
-publishdate: 2019-06-02T07:39:25.000+00:00
+date: 2019-05-22T03:41:00-04:00
+publishdate: 2019-05-22T03:41:00-04:00
 image: "/images/blog/6.jpg"
 tags:
 - santiago de compostela
