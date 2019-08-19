@@ -1,10 +1,12 @@
 ---
-title: "Arzua a Pedrouzo (11.04.19)"
-date: 2019-06-02T11:39:29+04:00
-publishdate: 2019-06-02T11:39:29+04:00
+title: Arzua a Pedrouzo (11.04.19)
+date: 2019-06-02T07:39:29.000+00:00
+publishdate: 2019-06-02T07:39:29.000+00:00
 image: "/images/blog/7.jpg"
-tags: ["santiago de compostela"]
+tags:
+- santiago de compostela
 comments: false
+
 ---
 No sexto dia saímos de Arzua com destino a Pedrouzo para percorrer 18,5km, por volta de 8:30h, com uma forte neblina e um frio congelante, acredito que uns 4 graus e no caminho Cláudio encontrou um unicórnio kkkkkkk… ainda encontramos mais bruxinhas… para os que gostam de cerveja também tinha seu espaço…
 
