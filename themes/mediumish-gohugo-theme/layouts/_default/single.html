@@ -13,24 +13,25 @@
             <div class="col-md-2 pl-0">
                 {{- partial "single-partials/share.html" . -}}
             </div>
+
             <!-- Post -->
             <div class="col-md-9 flex-first flex-md-unordered">
                 <div class="mainheading">
                     <div class="row post-top-meta">
-                        <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left md-nopad-left">
+                        <div class="col-xs-12 col-md-9 col-lg-12 text-center text-md-left md-nopad-left">
+                            <!-- Post Title -->
+                            <h1 class="posttitle">{{ .Title }}</h1>
+                            <span class="border-divider"></span>
                             <span class="author-description">
                                 {{if isset .Site.Params.author "name"}}
                                 <a target="_blank" class="link-dark">Por {{ .Site.Params.author.name }}</a>
                                 {{end}}
                                 <i class="far fa-star"></i>
                                 {{ dateFormat "2 Jan 2006" .PublishDate }}
-                                <i class="far fa-clock clock"></i>
-                                {{ .ReadingTime }} min leitura
                             </span>
                         </div>
                     </div>
-                    <!-- Post Title -->
-                    <h1 class="posttitle">{{ .Title }}</h1>
+
                 </div>
 
                 <!-- Post Featured Image -->
