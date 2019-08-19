@@ -25,6 +25,7 @@ fields:
   name: comments
   label: comments
 pages:
+- content/blog/pedrouzo-a-santiago-de-compostela.md
 - content/blog/arzua-a-pedrouzo.md
 - content/blog/sarria-a-portomarin.md
 - content/blog/triacastela-a-sarria.md
