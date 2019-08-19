@@ -19,11 +19,11 @@ Quando chegamos em O Cebreiro o taxi nem conseguia entrar na frente da Igreja de
 
 Caminho que fizemos do táxi para a Capela
 
-![](/images/blog/1_095557.jpg){#id .img-post}
+![](/images/blog/1_095557.jpg)
 
 Igreja Santa María a Real do Cebreiro, conta-se que aqui ocorreu um milagre, mas isso é outra história e não cabe neste relato.
 
-![](/images/20190406_114905.jpg.svg){#id .img-divide}    ![](/images/20190406_105427-1.svg){#id .img-divide}
+![alt](/images/20190406_114905.jpg.svg#img-divide)    ![alt](/images/20190406_105427-1.svg#img-divide)
 
 Eu estava deslumbrada, acho que o sentimento verdadeiro era pavor (risos), eu não conseguia nem conciliar bem os meus sentimentos de ver tanta neve, era lindo, sim lindo demais, mas apavorante para quem vai fazer um caminho à pé e não tem assim tanta resistência e nem estava com um preparo para caminhar na neve, estava com um casaco emprestado, bastões emprestados, o correto é quase tudo emprestado, queria agora ter um emoji para demonstrar o quanto estou achando graça.
 
