@@ -1,10 +1,12 @@
 ---
-title: "Sarria a Portomarin (08.04.19)"
-date: 2019-06-02T11:39:25+04:00
-publishdate: 2019-06-02T11:39:25+04:00
+title: Sarria a Portomarin (08.04.19)
+date: 2019-06-02T07:39:25.000+00:00
+publishdate: 2019-06-02T07:39:25.000+00:00
 image: "/images/blog/6.jpg"
-tags: ["santiago de compostela"]
+tags:
+- santiago de compostela
 comments: false
+
 ---
 No terceiro dia saímos de Sarria num bom horário, o dia estava lindo, maravilhoso, nos sentíamos em paz, conseguimos ter um bom descanso à noite o que nos proporcionou uma deliciosa sensação de bem estar convidando-nos ao deleite da incrível paisagem.
 
