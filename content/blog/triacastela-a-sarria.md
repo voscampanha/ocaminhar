@@ -1,7 +1,7 @@
 ---
 title: Triacastela a Sarria (07.04.19)
-date: 2019-06-02T07:39:22.000+00:00
-publishdate: 2019-06-02T07:39:22.000+00:00
+date: 2019-05-22T03:40:00-04:00
+publishdate: 2019-05-22T03:40:00-04:00
 image: "/images/blog/5.jpg"
 tags:
 - santiago de compostela
