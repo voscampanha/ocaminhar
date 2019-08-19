@@ -10,7 +10,7 @@ comments: false
 ---
 No outro dia de manhã, dentro do taxi, enquanto descíamos de Santiago de Compostela para O Cebreiro, local de onde iniciaríamos nossa peregrinação, depois de minha meditação matinal, via o taxi descendo e subindo montanhas e mais montanhas, num percurso que para mim pareceu imenso, arrepios começavam de minha cabeça até os dedos dos pés e silenciosamente o sentimento de insegurança teimava em aparecer – Meu Deus vou dar conta de voltar tudo isso a pé? É muita coisa, acho que eu não vou dar conta! – Quando começamos a nos aproximar de O Cebreiro vimos de longe a neve no alto de uma montanha e eu imaginava que aquela neve estaria longe e que a gente não iria passar por ela, ledo engano, de repente o asfalto foi ficando cheio de neve, a paisagem foi ficando como aquelas que vemos em filmes de natal pela televisão, com muita neve.
 
-![caminho-neve](/docs/images/20190406_094817-1-1024x498.jpg)
+![caminho-neve](/images/20190406_094817-1-1024x498.jpg)
 
 Quando chegamos em O Cebreiro o taxi nem conseguia entrar na frente da Igreja devido à altura da neve e nós descemos, pisoteando a neve alta e fofa até chegar à Capela.
 
