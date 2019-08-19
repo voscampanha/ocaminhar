@@ -344,6 +344,10 @@ blockquote {
     text-align: justify;
 }
 
+.article-post img {
+    text-align: center;
+}
+
 .featured-image {
     display: block;
     margin-bottom: 1.5rem;
