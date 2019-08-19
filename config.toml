@@ -1,48 +1,35 @@
 baseURL = "/"
-languageCode = "pt-BR"
-title = "O Caminhar"
-theme = "mediumish-gohugo-theme"
-summaryLength = 10
 copyright = "Vera Oliveira - All rights reserved"
 enableEmoji = true
+languageCode = "pt-BR"
 publishDir = "docs"
-#disqusShortname = "your-shortname-here"
-#googleAnalytics = "UA-1XXXXXXX1-1"
-
+summaryLength = 10
+theme = "mediumish-gohugo-theme"
+title = "O Caminhar"
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/blog"
+weight = 100
+[[menu.main]]
+identifier = "about"
+name = "Sobre mim"
+url = "/"
+weight = 200
 [params]
-  logo = "/images/logo.png"
-  description ="Viajando com a Vera!"
-  #mailchimp = "you can provide a mailchimp-link here"
-
+description = "Viajando com a Vera!"
+logo = "/images/logo.png"
 [params.author]
-  name = "Vera Oliveira"
-  thumbnail = "/images/author.png"
-  description = "Peregrina deste blog."
-
+description = "Peregrina deste blog."
+name = "Vera Oliveira"
+thumbnail = "/images/author.png"
 [params.index]
-  picture = "/images/foto.jpg"
-  title = "Vera Oliveira"
-  subtitle = "Peregrina, Artesã, Mestre REIKI!"
-  mdtext = '''
-Blog Pessoal com detalhes de cursos, viagens e mandalas!\
-**Venha comigo por este caminho de vida plena.**\
-### O Caminhar
-'''
-  alertbar = false
-
+alertbar = false
+mdtext = "Blog Pessoal com detalhes de cursos, viagens e mandalas!**Venha comigo por este caminho de vida plena.**### [O Caminhar] (https://ocaminhar.netlify.com/blog)\n"
+picture = "/images/foto.jpg"
+subtitle = "Peregrina, Artesã, Mestre REIKI!"
+title = "Vera Oliveira"
 [params.social]
-  facebook = "reikivera"
-  linkedin = "vera-lucia-de-oliveira-32100315b"
-  instagram = "veralucia.oliveira63"
-
-## Main Menu
-[[menu.main]]
-    name = "Blog"
-    weight = 100
-    identifier = "blog"
-    url = "/blog"
-[[menu.main]]
-    name = "Sobre mim"
-    identifier = "about"
-    weight = 200
-    url = "/"
+facebook = "reikivera"
+instagram = "veralucia.oliveira63"
+linkedin = "vera-lucia-de-oliveira-32100315b"
