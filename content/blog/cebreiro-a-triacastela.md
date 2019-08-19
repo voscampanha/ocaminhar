@@ -18,7 +18,7 @@ Caminho que fizemos do táxi para a Capela
 
 Igreja Santa María a Real do Cebreiro, conta-se que aqui ocorreu um milagre, mas isso é outra história e não cabe neste relato.
 
-![](/images/20190406_114905.jpg.svg)![](/images/20190406_105427-1.svg)
+![](/images/20190406_114905.jpg.svg)    ![](/images/20190406_105427-1.svg)
 
 Eu estava deslumbrada, acho que o sentimento verdadeiro era pavor (risos), eu não conseguia nem conciliar bem os meus sentimentos de ver tanta neve, era lindo, sim lindo demais, mas apavorante para quem vai fazer um caminho à pé e não tem assim tanta resistência e nem estava com um preparo para caminhar na neve, estava com um casaco emprestado, bastões emprestados, o correto é quase tudo emprestado, queria agora ter um emoji para demonstrar o quanto estou achando graça.
 
