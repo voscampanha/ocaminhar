@@ -35,7 +35,9 @@
 
                 <!-- Post Featured Image -->
                 {{if .Params.imagepost}}
+                {{with .Params.image}}
                 <img class="featured-image img-fluid" src="{{ . | urlize | relURL }}" alt="thumbnail for this post">
+                {{end}}
                 {{end}}
                 <!-- End Featured Image -->
 
