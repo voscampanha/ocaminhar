@@ -1,10 +1,12 @@
 ---
-title: "Agradecimentos"
-date: 2019-06-02T11:40:14+04:00
-publishdate: 2019-06-02T11:40:14+04:00
+title: Agradecimentos
+date: 2019-06-02T07:40:14.000+00:00
+publishdate: 2019-06-02T07:40:14.000+00:00
 image: "/images/blog/9.jpg"
-tags: ["santiago de compostela"]
+tags:
+- santiago de compostela
 comments: false
+
 ---
 Agradeço primeiramente a Deus, minhas filhas e toda minha família que acreditaram que eu seria capaz desta jornada, apesar da pouca resistência que tinha quando resolvi.
 Agradeço à minha nutricionista Letícia Sócio de Freitas pelo carinho com que preparou tudo o que eu precisava para o Caminho, inclusive separando por quantidades certa para cada dia… Grata, grata, grata.
