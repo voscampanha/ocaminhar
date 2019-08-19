@@ -345,9 +345,7 @@ blockquote {
 }
 
 .article-post img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto
+    margin-left: 16px;
 }
 
 .featured-image {
