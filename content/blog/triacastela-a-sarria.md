@@ -1,10 +1,12 @@
 ---
-title: "Triacastela a Sarria (07.04.19)"
-date: 2019-06-02T11:39:22+04:00
-publishdate: 2019-06-02T11:39:22+04:00
+title: Triacastela a Sarria (07.04.19)
+date: 2019-06-02T07:39:22.000+00:00
+publishdate: 2019-06-02T07:39:22.000+00:00
 image: "/images/blog/5.jpg"
-tags: ["santiago de compostela"]
+tags:
+- santiago de compostela
 comments: false
+
 ---
 No segundo dia levantamos tarde devido ao cansaço do dia anterior, meu estômago estava enjoado, constatei que ainda estava sob o efeito do jet lag, comi pouco o que eles chamam de pequeno almoço, porém minha vontade de seguir estava grande, nossa refeição demorou mais do que deveria o que nos atrasou ainda mais, saímos e em um ponto da caminhada tínhamos que decidir se iríamos pelo Mosteiro de São Julião de Samos, que aumentaria em 7 km o percurso do dia ou se seguiríamos pelo caminho menor, por San Xil, não sabia qual seguir, o cansaço falava alto, deixei que os dois decidissem o que queriam e optaram pelo mosteiro.
 
