@@ -3,6 +3,7 @@ title: Primeiro dia – O Cebreiro a Triacastela (06.04.19)
 date: 2019-05-22T07:39:10.000+00:00
 publishdate: 2019-05-22T07:39:10.000+00:00
 image: "/images/blog/2.jpg"
+image-post: false
 tags:
 - santiago de compostela
 comments: false
