@@ -25,4 +25,5 @@ fields:
   name: comments
   label: comments
 pages:
+- content/blog/onde-estao-as-estrelas.md
 - content/blog/cebreiro-a-triacastela.md
