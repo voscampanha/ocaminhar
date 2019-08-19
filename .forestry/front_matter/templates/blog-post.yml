@@ -24,3 +24,5 @@ fields:
 - type: boolean
   name: comments
   label: comments
+pages:
+- content/blog/cebreiro-a-triacastela.md
