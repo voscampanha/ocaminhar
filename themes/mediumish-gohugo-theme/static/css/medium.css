@@ -344,8 +344,14 @@ blockquote {
     text-align: justify;
 }
 
-.article-post img {
-    margin-left: 16px;
+.article-post img[src$='#img']{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article-post img[src$='#img-divide']{
+    width: calc((100% - 16px)/2);
 }
 
 .featured-image {
