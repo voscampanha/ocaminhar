@@ -15,7 +15,11 @@ No outro dia de manhã, dentro do taxi, enquanto descíamos de Santiago de Compo
 
 Quando chegamos em O Cebreiro o taxi nem conseguia entrar na frente da Igreja devido à altura da neve e nós descemos, pisoteando a neve alta e fofa até chegar à Capela.
 
+![](/images/blog/1_095445-1024x498.jpg)
+
 Caminho que fizemos do táxi para a Capela
+
+![](/images/blog/1_095557.jpg)
 
 Igreja Santa María a Real do Cebreiro, conta-se que aqui ocorreu um milagre, mas isso é outra história e não cabe neste relato.
 
@@ -23,12 +27,22 @@ Igreja Santa María a Real do Cebreiro, conta-se que aqui ocorreu um milagre, ma
 
 Eu estava deslumbrada, acho que o sentimento verdadeiro era pavor (risos), eu não conseguia nem conciliar bem os meus sentimentos de ver tanta neve, era lindo, sim lindo demais, mas apavorante para quem vai fazer um caminho à pé e não tem assim tanta resistência e nem estava com um preparo para caminhar na neve, estava com um casaco emprestado, bastões emprestados, o correto é quase tudo emprestado, queria agora ter um emoji para demonstrar o quanto estou achando graça.
 
+![](/images/blog/1_tumblr_mz5p7cyqvK1snsga0o1_500.gif)
+
+![](/images/blog/1_095658-1024x498.jpg)
+
 Entramos na Capela para carimbar a credencial e saímos, mas primeiro nos empacotamos com vários casacos e capa de chuva e saímos, indo a um local perto para ver se tomávamos um café ou um chá quente. Lá havia algumas pessoas que estavam desistindo de iniciar ali devido a quantidade da neve e afinal de contas era uma nevasca. Isabel e eu compramos lá a nossa vieira, Cláudio já tinha a dele, que a havia acompanhado no seu primeiro caminho a Santiago.
+
+![](/images/blog/1_104407-1024x576.jpg)
 
 Preparando para o início da caminhada.
 Seguimos, apavorados os três, não sabíamos se desistíamos ou não, mas fomos, afinal estávamos lá para isso, fosse o que fosse acontecer. Começamos a andar seguindo as setas com as vieiras, animados no início
 
+![](/images/blog/1_105117-1024x576.jpg)
+
 A cara da alegria
+
+![](/images/blog/1_095520-1.jpg)
 
 Grande entusiasmo inicial, mal imaginava o que vinha pela frente…
 
