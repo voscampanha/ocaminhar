@@ -1,10 +1,12 @@
 ---
-title: "Portomarín a Palas de Rei (09.04.19)"
-date: 2019-05-30T11:39:13+04:00
-publishdate: 2019-05-30T11:39:13+04:00
+title: Portomarín a Palas de Rei (09.04.19)
+date: 2019-05-30T07:39:13.000+00:00
+publishdate: 2019-05-30T07:39:13.000+00:00
 image: "/images/blog/3.jpg"
-tags: ["santiago de compostela"]
+tags:
+- santiago de compostela
 comments: false
+
 ---
 No quarto dia amanheceu mais frio, saímos de Portomarín sem chuva e pela primeira vez vi José e Milena, ele bem carinhoso ajeitando a mochila dela.
 
