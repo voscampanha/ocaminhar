@@ -1,10 +1,12 @@
 ---
-title: "Pedrouzo a Santiago de Compostela – (12.04.19)"
-date: 2019-06-02T11:40:11+04:00
-publishdate: 2019-06-02T11:40:11+04:00
+title: Pedrouzo a Santiago de Compostela – (12.04.19)
+date: 2019-06-02T07:40:11.000+00:00
+publishdate: 2019-06-02T07:40:11.000+00:00
 image: "/images/blog/8.jpg"
-tags: ["santiago de compostela"]
+tags:
+- santiago de compostela
 comments: false
+
 ---
 No sétimo e último dia, levantamos 6h, saímos às 7h de Pedrouzo, ainda escuro – na Espanha nessa estação do ano ainda é noite nesse horário – eu esqueci a minha lanterna de cabeça na mochila, passamos por um bosque escuro, iluminado apenas pela lanterna do Cláudio e da Isabel e o frio estava bem intenso, acredito que uns 4 graus e com muita neblina.
 
