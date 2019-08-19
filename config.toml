@@ -25,7 +25,7 @@ name = "Vera Oliveira"
 thumbnail = "/images/author.png"
 [params.index]
 alertbar = false
-mdtext = "Blog Pessoal com detalhes de cursos, viagens e mandalas!**Venha comigo por este caminho de vida plena.**### [O Caminhar] (https://ocaminhar.netlify.com/blog)\n"
+mdtext = "'''\nBlog Pessoal com detalhes de cursos, viagens e mandalas!\\\n**Venha comigo por este caminho de vida plena.**\\\n### [O Caminhar]\n'''\n"
 picture = "/images/foto.jpg"
 subtitle = "Peregrina, Artesã, Mestre REIKI!"
 title = "Vera Oliveira"
