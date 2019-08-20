@@ -15,6 +15,8 @@ No quarto dia amanheceu mais frio, saímos de Portomarín sem chuva e pela prime
 
 Entretanto a chuva apresentou-se e São Pedro trabalhou com vontade, encontramos muita lama, muita água escorrendo pelo caminho, paramos para tomar um lanche com o local completamente lotado de peregrinos, tanto que demorou para nos servirem e a chuva que já não era pouca começou a ficar realmente muito forte, neste dia ela foi frequente, as pequenas paradas eram um fazer de conta, tanto que desistimos de tirar as capas e no começo mal consegui tirar fotos. Eu que já estava com as calças e botas enlameadas dessa vez achei que ia ter que jogar fora tamanha quantidade de sujeira, devo dizer que usei as mesmas calças seis dias seguidos … Kkkkkkkkkkk
 
+![](/images/blog/4_115354.jpg#img-three)![](/images/blog/4_094255.jpg#img-three)![](/images/blog/4_152826.jpg#img-three)
+
 Nossa resistência nesse dia foi testada ao limite diante do precário descanso noturno, dores lombares, articulares e outras que nem conseguimos definir, o clima a mostrar suas garras, a quantidade de peregrinos em passagens estreitas, o chão que é um verdadeiro pisar em ovos com subidas e decidas inóspitas.
 
 Porém, alguns momentos foram gratificantes, fazendo-nos esquecer de nossas dores, como o local que deveria ser um bosque que pegou fogo e me surpreendeu a quantidade de flores teimando em embelezar os tocos de árvores queimadas, as cores eram de encher os olhos; as belas colinas matizadas de verde e marrom; os vilarejos que parecem ter surgidos de outros tempos; até um local inusitado com esculturas de insetos e um pequeno cemitério com o seu contraste entre o novo e o velho e ainda belas casas coloridas entre o verde do local.
