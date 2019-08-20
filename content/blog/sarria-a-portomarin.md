@@ -31,7 +31,7 @@ As bruxas do imaginário da população Galícia também estavam presentes nas j
 
 Paramos para o almoço em um lugar especial, bem antigo, com um casal acolhedor e com comidas da região e como podem ver pelas fotos ficamos bem à vontade.
 
-![](/images/blog/3__130124-1024x576.jpg#img-divide)![](/images/blog/3__130133-1024x576.jpg#img-divide)![](/images/blog/3__130221-1024x576.jpg#img-divide)
+![](/images/blog/3__130124-1024x576.jpg#img-three)![](/images/blog/3__130133-1024x576.jpg#img-three)![](/images/blog/3__130221-1024x576.jpg#img-three)
 
 Começamos a descida até ao rio Minho e olha que é “a descida” com muitas pedras soltas que nos obrigou a tomar o maior cuidado, acredito que foi ali que o joelho de Isabel ficou irremediavelmente danificado para o resto do caminho e o início das dores no meu dedinho a aumentar a dor no quadril que me incomodava. Ao longe vimos Portomarín, nosso destino final daquele dia, debruçado sobre o rio Minho… todo o sofrimento tem sua recompensa e a vista que se nos apresentava valia qualquer sacrifício.
 
