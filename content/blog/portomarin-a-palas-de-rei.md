@@ -33,3 +33,5 @@ Cheguei com muita dor em Palas de Rei, lembro que cada passo eu pensava – meno
 Direcionou-nos para o quarto devido à nossa aparência de sofrimento e deixou para apresentarmos os documentos depois de refeitos o que nos alegrou e ainda mais porque nossas mochilas já estavamm nos esperando no quarto.
 
 Assim terminou este quarto dia e verificamos que andamos dolorosos 28km, jantamos em um restaurante quentinho bem em frente ao hotel.
+
+![](/images/blog/4_202658_001-1024x576.jpg#img)
