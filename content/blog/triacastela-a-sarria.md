@@ -47,6 +47,8 @@ Quando saímos da taberna já sabia que iria despachar a mochila, minhas costas 
 
 No meio do caminho paramos na Taberna Do Camino Aguiada para um lanche, saboreamos um delicioso bolinho de bacalhau, vale a pena mostrar as fotos.
 
+![](/images/blog/2__130241.jpg#img-three)![](/images/blog/2__130357.jpg#img-three)![](/images/blog/2__130258.jpg#img-three)
+
 Ao final deste dia percorremos 26,5km, chegamos tarde a Sarria e com muita dificuldade, tanto que precisamos almoçar, antes de chegar ao hotel, mesmo já sendo 16h.
 
 O hotel era um palácio, apesar da simplicidade exterior tinha um apartamento excelente, e o valor simbólico, nos jogamos nas camas – ainda bem que resolvemos no dia anterior marcar um hotel para termos um pouco mais de conforto. Após um banho e descanso, jantamos numa taberna no cimo da rua do hotel, onde estava um coreano, que mais tarde falarei sobre ele por todo o restante do caminho nos cumprimentava uma meia dúzia de vezes, como se fosse a primeira, brinquei com Isabel, deve ser apenas isso que ele aprendeu a falar: “Buen camino”. Explico, quase todos os peregrinos e pessoas das localidades têm o costume de cumprimentar assim os peregrinos.
