@@ -17,6 +17,8 @@ A chuva continuou nossa companheira, muita lama, subidas e descidas sem fim, mai
 
 ![](/images/blog/3__085252-1024x498.jpg#img-three)![](/images/blog/3__090449-1024x498.jpg#img-three)![](/images/blog/3__090524-1024x498.jpg#img-three)
 
+![](/images/blog/3__095436-768x1024.jpg#img-three)![](/images/blog/3__084610-1024x768.jpg#img-three)![](/images/blog/3__090524-1-768x1024.jpg#img-three)
+
 A partir de Sarria surgiram muitos peregrinos, uma multidão, isto porque muitos começam nesta etapa que é a distância mínima necessária para se obter a Compostela. Eram em sua maioria espanhóis, mas também muitas outras nacionalidades, muitos em grupos, pessoas de todas as idades e foi a partir de então que o silêncio deixou de reinar e a caminhada começou a ficar ruidosa.
 
 Ficou em nossa lembrança o casal espanhol, José e Milena, que por várias vezes nos esbarramos e conversamos, parecia que o caminho queria nos dizer que entre eles e nós havia uma sintonia de busca, são jovens, mas com grande sabedoria e bondade e o carinho de um para com o outro me tocava o coração.
