@@ -41,7 +41,7 @@ O vilarejo ao seu lado é acolhedor, paramos em uma lanchonete e os meus pés qu
 
 A partir de Samos aumentou a quantidade de peregrinos. Se não fosse o cansaço esse dia teria sido como um passeio tamanha a beleza do lugar.
 
-![](/images/blog/2__121517-1.jpg#img-divide)![](/images/blog/2__123217-1.jpg#img-divide)
+![](/images/blog/2__121517-1.jpg#img-divide)    ![](/images/blog/2__123217-1.jpg#img-divide)
 
 Quando saímos da taberna já sabia que iria despachar a mochila, minhas costas não me permitiam tal sacrifício, Cláudio era o único dos três que queria continuar carregando, mas também estava com dores nas costas, Isabel tinha a mochila mais pesada que a minha e também estava decidida a despachar, disse para o Cláudio – Vim aqui para crescer espiritualmente, não para acabar com meu corpo físico. – E foi assim que a partir do terceiro dia contratamos uma empresa que transporta mochilas.
 
