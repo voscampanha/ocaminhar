@@ -47,7 +47,7 @@ Quando saímos da taberna já sabia que iria despachar a mochila, minhas costas 
 
 No meio do caminho paramos na Taberna Do Camino Aguiada para um lanche, saboreamos um delicioso bolinho de bacalhau, vale a pena mostrar as fotos.
 
-![](/images/blog/2__130241.jpg#img-three)![](/images/blog/2__130357.jpg#img-three)![](/images/blog/2__130258.jpg#img-three)
+![Como podem ver o sofrimento é tanto que nem nos importamos de tirar fotos descabelados. Kkkkkkkkkkk](/images/blog/2__130241.jpg#img-three)![](/images/blog/2__130357.jpg#img-three)![](/images/blog/2__130258.jpg#img-three)
 
 Ao final deste dia percorremos 26,5km, chegamos tarde a Sarria e com muita dificuldade, tanto que precisamos almoçar, antes de chegar ao hotel, mesmo já sendo 16h.
 
