@@ -367,6 +367,10 @@ blockquote {
     width: calc((100% - 16px)/2);
 }
 
+.article-post img[src$='#img-three']{
+    width: calc((100% - 32px)/3);
+}
+
 .featured-image {
     display: block;
     margin-bottom: 1.5rem;
