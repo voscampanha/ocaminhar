@@ -17,6 +17,8 @@ Passamos por caminhos pedregosos, todo o cuidado era pouco para não cair, poré
 
 ![](/images/blog/2_143756-1024x610.jpg#img-three)![](/images/blog/2__133331.jpg#img-three)![](/images/blog/2__134752.jpg#img-three)
 
+![](/images/blog/2__124347.jpg#img-three)![](/images/blog/2__105218.jpg#img-three)![](/images/blog/2__102452-1024x498.jpg#img-three)
+
 Quase não vimos peregrinos até o mosteiro e para aliviar a dor e o cansaço comecei a cantar alto, cantos católicos, como as beatas cantam. Disse – preciso da fé delas… “segura na mão de Deus, segura na mão de Deus…” – também tirei do fundo do baú o hino do expedicionário que sempre teima em aparecer em minha mente e naquele momento pareceu perfeito – “Por mais terras que eu percorra não permita Deus que eu morra sem que volte para lá…” – acabamos nos animando e começamos a fazer piadas para esquecermos das dores, a mochila neste dia estava mais pesada que seus 5kg .
 
 Paramos para comer algo no caminho, ao lado de uma ponte por onde passava um belo e manso rio.
