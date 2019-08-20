@@ -43,6 +43,8 @@ O hotel era aconchegante e quente com camas macias , mas primeiro preferimos fot
 
 Após as escadarias desfrutamos da paisagem deslumbrante com o Rio Minho ao fundo.
 
+![](/images/blog/3__154733-1-1024x576.jpg#img-three)![](/images/blog/3__154653-1-1024x576.jpg#img-three)![](/images/blog/3__1547290-1024x498.jpg#img-three)
+
 ![](/images/blog/3__155044-1024x498.jpg#img-three)![](/images/blog/3__155555-1024x498.jpg#img-three)![](/images/blog/3__155716-1024x498.jpg#img-three)
 
 ![](/images/blog/3__172016-768x1024.jpg#img)
