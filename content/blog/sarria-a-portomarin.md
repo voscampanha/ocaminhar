@@ -21,9 +21,13 @@ A chuva continuou nossa companheira, muita lama, subidas e descidas sem fim, mai
 
 A partir de Sarria surgiram muitos peregrinos, uma multidão, isto porque muitos começam nesta etapa que é a distância mínima necessária para se obter a Compostela. Eram em sua maioria espanhóis, mas também muitas outras nacionalidades, muitos em grupos, pessoas de todas as idades e foi a partir de então que o silêncio deixou de reinar e a caminhada começou a ficar ruidosa.
 
+![](/images/blog/3__090530-768x1024.jpg#img-divide)    ![](/images/blog/3__135734-1-768x1024.jpg#img-divide)
+
 Ficou em nossa lembrança o casal espanhol, José e Milena, que por várias vezes nos esbarramos e conversamos, parecia que o caminho queria nos dizer que entre eles e nós havia uma sintonia de busca, são jovens, mas com grande sabedoria e bondade e o carinho de um para com o outro me tocava o coração.
 
 As bruxas do imaginário da população Galícia também estavam presentes nas janelas das casas nos antigos vilarejos e dentro dos estabelecimentos comerciais, herança dos povos celtas que habitaram o local a nos lembrar do misticismo presente nessa região.
+
+![](/images/blog/3__140920-1024x768.jpg#img-divide)    ![](/images/blog/3__140915-1024x498.jpg#img-divide)
 
 Paramos para o almoço em um lugar especial, bem antigo, com um casal acolhedor e com comidas da região e como podem ver pelas fotos ficamos bem à vontade.
 
