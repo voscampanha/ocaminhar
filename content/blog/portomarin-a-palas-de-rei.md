@@ -23,6 +23,8 @@ Nossa resistência nesse dia foi testada ao limite diante do precário descanso 
 
 Porém, alguns momentos foram gratificantes, fazendo-nos esquecer de nossas dores, como o local que deveria ser um bosque que pegou fogo e me surpreendeu a quantidade de flores teimando em embelezar os tocos de árvores queimadas, as cores eram de encher os olhos; as belas colinas matizadas de verde e marrom; os vilarejos que parecem ter surgidos de outros tempos; até um local inusitado com esculturas de insetos e um pequeno cemitério com o seu contraste entre o novo e o velho e ainda belas casas coloridas entre o verde do local.
 
+![](/images/blog/4_093814-1024x498.jpg#img-three)![](/images/blog/4_093806-1024x498.jpg#img-three)![](/images/blog/4_094253-1024x498.jpg#img-three)
+
 Por todo o caminho Isabel sofria com o joelho e eu com meu quadril e o dedo mindinho que parecia mais uma agulha me perfurando e acredito que por estar mancando muito piorou as dores que sentia na articulação entre o fêmur e a bacia. É… hoje o dia realmente foi diferente, aliás todos os dias foram diferentes.
 
 ![](/images/blog/4_160859-1.jpg#img)
