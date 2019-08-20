@@ -25,6 +25,8 @@ Quase não vimos peregrinos até o mosteiro e para aliviar a dor e o cansaço co
 
 Paramos para comer algo no caminho, ao lado de uma ponte por onde passava um belo e manso rio.
 
+![](/images/blog/2__111341-2-1024x498.jpg#img-three)![](/images/blog/2__111352-1-1024x498.jpg#img-three)![](/images/blog/2__111401-2-1024x498.jpg#img-three)
+
 Eu estava a base de sopa quente por causa do forte frio, mas a sopa galega deles não me dava os nutrientes de que eu precisava que era proteína e carboidrato e tanto eu como Isabel, que também se alimentou mal estávamos muito fracas, aliás não nos alimentamos nem durante o dia e levamos mais uma bronca do Cláudio que tinha toda razão,  percebi a duras penas que dali pra frente eu teria que me reinventar se quisesse concluir a caminhada e foi assim que neste segundo dia aprendi outra grande lição e dali pra frente comecei a comer, comer e comer, comi bifes grandões – para os que não sabem tenho muita dificuldade em comer carne vermelha – comi polvo, comi lula, comi outras especiarias do mar que jamais pensaria que comeria antes, porque eu sabia que precisava,  sabia que se não fizesse dessa forma não conseguiria chegar até o fim, agradeço a bronca que o Cláudio nos deu.
 
 O pequeno lanche que tínhamos levado nos fortaleceu e continuamos a jornada, logo começamos a avistar ao longe o Mosteiro de Samos, é realmente lindo, e foi se apresentando de mansinho entre a vegetação.
