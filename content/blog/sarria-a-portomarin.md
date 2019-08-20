@@ -43,6 +43,8 @@ O hotel era aconchegante e quente com camas macias , mas primeiro preferimos fot
 
 Após as escadarias desfrutamos da paisagem deslumbrante com o Rio Minho ao fundo.
 
+![](/images/blog/3__155044-1024x498.jpg#img-three)![](/images/blog/3__155555-1024x498.jpg#img-three)![](/images/blog/3__172016-768x1024.jpg#img-three)
+
 ![](/images/blog/3__155716-1024x498.jpg#img)
 
 Após o banho saímos para jantar em alto estilo, com vista para o belo rio Minho, tomei vinho e como eu e bebida não nos entendemos, fiquei de fogo, rindo muito e falando alto, estávamos os três completamente descontraídos e divertidos e após o jantar saímos cantando pela rua chuvosa e fria que nos levava até o hotel.
