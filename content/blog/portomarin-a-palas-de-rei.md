@@ -25,6 +25,8 @@ Porém, alguns momentos foram gratificantes, fazendo-nos esquecer de nossas dore
 
 ![](/images/blog/4_093814-1024x498.jpg#img-three)![](/images/blog/4_093806-1024x498.jpg#img-three)![](/images/blog/4_094253-1024x498.jpg#img-three)
 
+![](/images/blog/4_110924-1-1024x498.jpg#img-three)![](/images/blog/4_143943-1024x498.jpg#img-three)![](/images/blog/4_143550.jpg#img-three)
+
 Por todo o caminho Isabel sofria com o joelho e eu com meu quadril e o dedo mindinho que parecia mais uma agulha me perfurando e acredito que por estar mancando muito piorou as dores que sentia na articulação entre o fêmur e a bacia. É… hoje o dia realmente foi diferente, aliás todos os dias foram diferentes.
 
 ![](/images/blog/4_160859-1.jpg#img)
