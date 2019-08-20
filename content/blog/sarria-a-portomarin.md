@@ -47,6 +47,8 @@ Após as escadarias desfrutamos da paisagem deslumbrante com o Rio Minho ao fund
 
 Após o banho saímos para jantar em alto estilo, com vista para o belo rio Minho, tomei vinho e como eu e bebida não nos entendemos, fiquei de fogo, rindo muito e falando alto, estávamos os três completamente descontraídos e divertidos e após o jantar saímos cantando pela rua chuvosa e fria que nos levava até o hotel.
 
+![](/images/blog/3__212147-1024x768.jpg#img-three)![](/images/blog/3__205431-768x1024.jpg#img-three)![](/images/blog/3__205402-768x1024.jpg#img-three)
+
 ![](/images/blog/3__215805-1024x768.jpg#img)
 
 Assim ao final desse terceiro dia já tínhamos percorrido dois terços caminho.
