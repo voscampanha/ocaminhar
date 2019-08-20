@@ -19,6 +19,8 @@ Entretanto a chuva apresentou-se e São Pedro trabalhou com vontade, encontramos
 
 Nossa resistência nesse dia foi testada ao limite diante do precário descanso noturno, dores lombares, articulares e outras que nem conseguimos definir, o clima a mostrar suas garras, a quantidade de peregrinos em passagens estreitas, o chão que é um verdadeiro pisar em ovos com subidas e decidas inóspitas.
 
+![](/images/blog/4_110924.jpg#img)
+
 Porém, alguns momentos foram gratificantes, fazendo-nos esquecer de nossas dores, como o local que deveria ser um bosque que pegou fogo e me surpreendeu a quantidade de flores teimando em embelezar os tocos de árvores queimadas, as cores eram de encher os olhos; as belas colinas matizadas de verde e marrom; os vilarejos que parecem ter surgidos de outros tempos; até um local inusitado com esculturas de insetos e um pequeno cemitério com o seu contraste entre o novo e o velho e ainda belas casas coloridas entre o verde do local.
 
 Por todo o caminho Isabel sofria com o joelho e eu com meu quadril e o dedo mindinho que parecia mais uma agulha me perfurando e acredito que por estar mancando muito piorou as dores que sentia na articulação entre o fêmur e a bacia. É… hoje o dia realmente foi diferente, aliás todos os dias foram diferentes.
