@@ -369,7 +369,7 @@ blockquote {
 
 .article-post img[src$='#img-three']{
     width: calc((100% - 32px)/3);
-    margin-right: 16px;
+    margin-right: 8px;
 }
 
 .featured-image {
