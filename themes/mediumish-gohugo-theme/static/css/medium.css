@@ -357,6 +357,14 @@ blockquote {
     text-align: justify;
 }
 
+.article-post div{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 20px;
+    margin-bottom: 15px;
+    padding: 0;
+}
+
 .article-post img[src$='#img']{
     display: block;
     margin-left: auto;
@@ -365,6 +373,7 @@ blockquote {
 
 .article-post img[src$='#img-divide']{
     width: calc((100% - 16px)/2);
+    margin-right: 8px;
 }
 
 .article-post img[src$='#img-three']{
