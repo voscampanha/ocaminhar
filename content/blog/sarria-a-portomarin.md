@@ -29,12 +29,20 @@ Paramos para o almoço em um lugar especial, bem antigo, com um casal acolhedor 
 
 Começamos a descida até ao rio Minho e olha que é “a descida” com muitas pedras soltas que nos obrigou a tomar o maior cuidado, acredito que foi ali que o joelho de Isabel ficou irremediavelmente danificado para o resto do caminho e o início das dores no meu dedinho a aumentar a dor no quadril que me incomodava. Ao longe vimos Portomarín, nosso destino final daquele dia, debruçado sobre o rio Minho… todo o sofrimento tem sua recompensa e a vista que se nos apresentava valia qualquer sacrifício.
 
+![](/images/blog/3__154122-1024x498.jpg#img)
+
 Atravessamos a ponte e chegamos diante da grande escadaria do Arco da entrada do município que nos convidou a buscar o último fôlego para chegar ao hotel.
+
+![](/images/blog/3__154536-498x1024.jpg#img)
 
 O hotel era aconchegante e quente com camas macias , mas primeiro preferimos fotografar a igreja românica, chamada de Igreja de San Juan e o seu entorno. Curiosidade sobre ela é que devido à criação de barragem em 1963 que inundou a antiga aldeia foi desmontada pedra a pedra e reconstruída onde está hoje, pena que estava fechada e não pudemos entrar.
 
 Após as escadarias desfrutamos da paisagem deslumbrante com o Rio Minho ao fundo.
 
+![](/images/blog/3__155716-1024x498.jpg#img)
+
 Após o banho saímos para jantar em alto estilo, com vista para o belo rio Minho, tomei vinho e como eu e bebida não nos entendemos, fiquei de fogo, rindo muito e falando alto, estávamos os três completamente descontraídos e divertidos e após o jantar saímos cantando pela rua chuvosa e fria que nos levava até o hotel.
+
+![](/images/blog/3__215805-1024x768.jpg#img)
 
 Assim ao final desse terceiro dia já tínhamos percorrido dois terços caminho.
