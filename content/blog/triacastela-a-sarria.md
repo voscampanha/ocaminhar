@@ -33,6 +33,8 @@ O pequeno lanche que tínhamos levado nos fortaleceu e continuamos a jornada, lo
 
 ![](/images/blog/2__113544-1024x498.jpg#img-three)![](/images/blog/2__113538-1024x498.jpg#img-three)![](/images/blog/2__114814-1024x498.jpg#img-three)
 
+![](/images/blog/2__114817-1024x498.jpg#img)
+
 O vilarejo ao seu lado é acolhedor, paramos em uma lanchonete e os meus pés queimavam, desisti de conhecer a Igreja por dentro, preferi ficar descansando sentada, tomar um fôlego, mas tenho as fotos que me foram cedidas gentilmente pelo Cláudio.
 
 A partir de Samos aumentou a quantidade de peregrinos. Se não fosse o cansaço esse dia teria sido como um passeio tamanha a beleza do lugar.
