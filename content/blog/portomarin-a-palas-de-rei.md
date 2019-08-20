@@ -25,6 +25,8 @@ Porém, alguns momentos foram gratificantes, fazendo-nos esquecer de nossas dore
 
 Por todo o caminho Isabel sofria com o joelho e eu com meu quadril e o dedo mindinho que parecia mais uma agulha me perfurando e acredito que por estar mancando muito piorou as dores que sentia na articulação entre o fêmur e a bacia. É… hoje o dia realmente foi diferente, aliás todos os dias foram diferentes.
 
+![](/images/blog/4_160859-1.jpg#img)
+
 Iglesia de SanTirso, Palas de Rei, Espanha
 Cheguei com muita dor em Palas de Rei, lembro que cada passo eu pensava – menos um – doía muito, a chuva insistiu em permanecer até o fim deste dia, entramos no hotel ensopados e enregelados e a recepção foi decepcionante ficava em um estabelecimento que não dava pra definir se era um restaurante ou uma lanchonete e o homem que lá estava não sabia de nossa reserva e de nossas mochilas, tivemos que esperar sua mulher chegar, tinha ido buscar os filhos na escola e ficamos ali sentados em cadeiras desconfortáveis tentando buscar ânimo, ainda bem que ela chegou logo – a grosseria do marido para com ela foi desconcertante – ela com um jeito delicado e pareceu-me uma coitada, mal tratada – chegou com toda aquela chuva com filhos pequenos e uma idosa.
 
