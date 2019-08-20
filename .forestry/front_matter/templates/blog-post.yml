@@ -25,6 +25,7 @@ fields:
   name: comments
   label: comments
 pages:
+- content/blog/portomarin-a-palas-de-rei.md
 - content/blog/sarria-a-portomarin.md
 - content/blog/cebreiro-a-triacastela.md
 - content/blog/triacastela-a-sarria.md
@@ -32,5 +33,4 @@ pages:
 - content/blog/pedrouzo-a-santiago-de-compostela.md
 - content/blog/arzua-a-pedrouzo.md
 - content/blog/palas-de-rei-a-arzua.md
-- content/blog/portomarin-a-palas-de-rei.md
 - content/blog/onde-estao-as-estrelas.md
