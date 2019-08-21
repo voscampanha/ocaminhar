@@ -10,7 +10,6 @@ imagepost: false
 
 ---
 No quinto dia, momentos que antecedeu à saída, desci do quarto antes dos companheiros e a mulher que nos atendeu no dia anterior e parecia ser dona do hotel, que me pareceu tão frágil antes, olhou para mim e – talvez por forças estranhas que nunca conseguimos entender – disse: Pensa que são apenas dois quilômetros a mais que ontem e que ao final faltarão pouco mais de quarenta quilômetros pra chegar no seu objetivo, tenha força. Devo dizer que estava precisando ouvir aquilo – de uma injeção de ânimo – meu dedinho estava muito dolorido, eu havia percebido à noite que era a unha que havia sido pressionada na carne e a cortei ao máximo e não sabia se era o local onde cortei sem dó ou algo mais que doía tanto, e só de pensar que o percurso do dia seriam de 31,5 km me dava calafrios.
-
 <div>
 ![](/images/blog/5_093320-1024x498.jpg#img-three)![](/images/blog/5_095559-1024x498.jpg#img-three)![](/images/blog/5_095610-1024x498.jpg#img-three)
 </div>
