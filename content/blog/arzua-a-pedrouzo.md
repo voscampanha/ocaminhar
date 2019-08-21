@@ -33,6 +33,10 @@ Adiante passamos por uma multidão de jovens fazendo o caminho, pareciam de algu
 <div>
 ![](/images/blog/6_120404.jpg#img-three)![](/images/blog/6_120615-e1559426539604-768x1024.jpg#img-three)![](/images/blog/6_121456.jpg#img-three)
 </div>
+<div>
+![](/images/blog/6_121300.jpg#img-divide)![](/images/blog/6_121300-1-1024x498.jpg#img-divide)
+</div>
+![](/images/blog/6_125914-1024x498.jpg)![](/images/blog/6_120341-1024x498.jpg)
 
 Depois do almoço, revigorados partimos felizes, este final, pareceu um passeio, deu tempo para o Claudio fazer macaquice e eu que não sou boba documentei!!!
 
