@@ -12,7 +12,7 @@ imagepost: false
 No sexto dia saímos de Arzua com destino a Pedrouzo para percorrer 18,5km, por volta de 8:30h, com uma forte neblina e um frio congelante, acredito que uns 4 graus e no caminho Cláudio encontrou um unicórnio kkkkkkk… ainda encontramos mais bruxinhas… para os que gostam de cerveja também tinha seu espaço…
 
 <div>
-![](/images/blog/6_084809-1024x498.jpg#img-three)![](/images/blog/6_085159-e1559426058481-768x1024.jpg#img-three)![](/images/blog/6_101513.jpg#img-three)
+![](/images/blog/6_084809-1024x498.jpg#img-divide)![](/images/blog/6_085159-e1559426058481-768x1024.jpg#img-divide)
 </div>
 
 <div>
