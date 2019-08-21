@@ -10,15 +10,12 @@ imagepost: false
 
 ---
 No sexto dia saímos de Arzua com destino a Pedrouzo para percorrer 18,5km, por volta de 8:30h, com uma forte neblina e um frio congelante, acredito que uns 4 graus e no caminho Cláudio encontrou um unicórnio kkkkkkk… ainda encontramos mais bruxinhas… para os que gostam de cerveja também tinha seu espaço…
-
 <div>
 ![](/images/blog/6_084809-1024x498.jpg#img-divide)![](/images/blog/6_085159-e1559426058481-768x1024.jpg#img-divide)
 </div>
-
 <div>
 ![](/images/blog/6_090030.jpg#img-three)![](/images/blog/6_090116-1024x498.jpg#img-three)![](/images/blog/6_105229.jpg#img-three)
 </div>
-
 Mais de 10h da manhã, tínhamos andado 6kme a neblina insistia em permanecer, ainda bem que não pegamos chuva e a lama começou a ficar menos intensa – o coração se alegrava e já estávamos a 12 km do nosso percurso final do dia, o meu corpo já se mostrava mais resistente, principalmente as subidas, que era minha maior dificuldade, Isabel continuava caminhando devagar com muita dor no joelho, mas acredito que os 3 chegaremos em Santiago de Compostela amanhã.
 
 ![](/images/blog/6_134155-1024x576.jpg#img)
@@ -26,7 +23,6 @@ Mais de 10h da manhã, tínhamos andado 6kme a neblina insistia em permanecer, a
 O sol começou a aparecer de mansinho e se mostrou em todo o seu esplendor, ainda que gelado para os meus parâmetros, mas lindo de viver, passamos por muitas flores que coloriu meus olhos e meu coração.
 
 ![](/images/blog/6_194517-1024x498.jpg#img-three)![](/images/blog/6_194413-1024x498.jpg#img-three)![](/images/blog/6_150015-1024x498.jpg#img-three)
-
 <div>
 ![](/images/blog/6_145926-1024x498.jpg#img-three)![](/images/blog/6_112433.jpg#img-three)![](/images/blog/6_113706-1024x498.jpg#img-three)
 </div>
@@ -34,7 +30,6 @@ O sol começou a aparecer de mansinho e se mostrou em todo o seu esplendor, aind
 ![](/images/blog/6_113740.jpg#img)
 
 Adiante passamos por uma multidão de jovens fazendo o caminho, pareciam de alguma escola católica devido às músicas, para mim eles estavam turistando, muitos namorando de mãos dadas, passeando devagar, foi difícil ultrapassa-los, preferimos parar e almoçar para que eles continuassem seu passeio. O local era mais moderno que os outros por que passamos, encontramos lá um brasileiro que mora na França e que fazia o caminho de volta a pé com seu cachorro.
-
 <div>
 ![](/images/blog/6_120404.jpg#img-three)![](/images/blog/6_120615-e1559426539604-768x1024.jpg#img-three)![](/images/blog/6_121456.jpg#img-three)
 </div>
