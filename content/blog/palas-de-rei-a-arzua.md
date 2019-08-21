@@ -52,7 +52,9 @@ Ponte medieval de Furelos em Melide, Galícia.
 ![](/images/blog/5_120031-1024x576.jpg#img)
 
 Chegamos a Melide e resolvemos almoçar, estávamos precisando, me dei conta de como estava suja e minhas botas cheias de lama quando entrei no restaurante – devo confessar que tive vergonha da sujeira que deixei – mas é assim o Caminho de Santiago e acredito que estão acostumados com isso – o fato é que comi um espaguete que era incrivelmente delicioso – será que era a fome??? Depois da comilança seguimos viagem e a direção das setas passava pela cidade e algo nessa cidade me fez gostar muito dali.
-
+<div>
+![](/images/blog/5_1322580-1024x498.jpg#img-three)![](/images/blog/5_131726-1024x498.jpg#img-three)![](/images/blog/5_132300-1.jpg#img-three)
+</div>
 ![](/images/blog/5_132226-1.jpg#img)
 
 E o caminho se fez lindo até Arzua.
