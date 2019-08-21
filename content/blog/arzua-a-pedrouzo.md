@@ -33,6 +33,10 @@ O sol começou a aparecer de mansinho e se mostrou em todo o seu esplendor, aind
 
 Adiante passamos por uma multidão de jovens fazendo o caminho, pareciam de alguma escola católica devido às músicas, para mim eles estavam turistando, muitos namorando de mãos dadas, passeando devagar, foi difícil ultrapassa-los, preferimos parar e almoçar para que eles continuassem seu passeio. O local era mais moderno que os outros por que passamos, encontramos lá um brasileiro que mora na França e que fazia o caminho de volta a pé com seu cachorro.
 
+<div>
+![](/images/blog/6_120404.jpg#img-three)![](/images/blog/6_120615-e1559426539604-768x1024.jpg#img-three)![](/images/blog/6_121456.jpg#img-three)
+</div>
+
 Depois do almoço, revigorados partimos felizes, este final, pareceu um passeio, deu tempo para o Claudio fazer macaquice e eu que não sou boba documentei!!!
 
 O dia que começou com uma neblina muito forte em que não víamos quase nada, estava terminando com muito sol e chegamos a tirar parte das blusas, que no meu caso eram muitas, meu dedinho dava sinal que existia, mas já não incomodava tanto e meu quadril parecia doer menos, parecia que estávamos mais fortalecidos neste dia e mais alegres, porque estávamos apenas a um dia de completarmos o Caminho de Santiago de Compostela que nos propusemos fazer.
