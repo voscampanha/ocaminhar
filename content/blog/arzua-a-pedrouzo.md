@@ -16,6 +16,7 @@ No sexto dia saímos de Arzua com destino a Pedrouzo para percorrer 18,5km, por 
 <div>
 ![](/images/blog/6_090030.jpg#img-three)![](/images/blog/6_090116-1024x498.jpg#img-three)![](/images/blog/6_105229.jpg#img-three)
 </div>
+
 Mais de 10h da manhã, tínhamos andado 6kme a neblina insistia em permanecer, ainda bem que não pegamos chuva e a lama começou a ficar menos intensa – o coração se alegrava e já estávamos a 12 km do nosso percurso final do dia, o meu corpo já se mostrava mais resistente, principalmente as subidas, que era minha maior dificuldade, Isabel continuava caminhando devagar com muita dor no joelho, mas acredito que os 3 chegaremos em Santiago de Compostela amanhã.
 
 ![](/images/blog/6_134155-1024x576.jpg#img)
