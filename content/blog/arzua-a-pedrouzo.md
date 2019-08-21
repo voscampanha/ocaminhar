@@ -44,6 +44,10 @@ Depois do almoço, revigorados partimos felizes, este final, pareceu um passeio,
 
 O dia que começou com uma neblina muito forte em que não víamos quase nada, estava terminando com muito sol e chegamos a tirar parte das blusas, que no meu caso eram muitas, meu dedinho dava sinal que existia, mas já não incomodava tanto e meu quadril parecia doer menos, parecia que estávamos mais fortalecidos neste dia e mais alegres, porque estávamos apenas a um dia de completarmos o Caminho de Santiago de Compostela que nos propusemos fazer.
 
+![](/images/blog/6_145837-e1559427030180-768x1024.jpg#img-three)![](/images/blog/6_145829-1-e1559427681726-768x1024.jpg#img-three)![](/images/blog/6_141121-1-e1559428390804-768x1024.jpg#img-three)
+
+![](/images/blog/6_145847-1.jpg#img)
+
 Chegamos em uma boa hora no hotel, que era bem aconchegante, e aproveitei para aplicar reiki no Cláudio.
 
 O local para o jantar foi sugerido pela proprietária do hotel e realmente é muito bom, estávamos tão bem que resolvemos mais uma vez tomar vinhos e eu mais uma vez fiquei um tanto alegre – eu e bebida não nos entendemos – Claudio foi temperar a salada e derrubou todo o sal do saleiro na salada, tenho que defendê-lo a tampa não estava bem fechada – ainda bem que o garçom tinha um humor digno de nota e trouxe outra salada e ainda pediu desculpas – naquela noite achávamos graça de tudo – e viva a vida!!!
