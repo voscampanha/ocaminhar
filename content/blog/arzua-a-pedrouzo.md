@@ -19,9 +19,11 @@ No sexto dia saímos de Arzua com destino a Pedrouzo para percorrer 18,5km, por 
 </div>
 Mais de 10h da manhã, tínhamos andado 6kme a neblina insistia em permanecer, ainda bem que não pegamos chuva e a lama começou a ficar menos intensa – o coração se alegrava e já estávamos a 12 km do nosso percurso final do dia, o meu corpo já se mostrava mais resistente, principalmente as subidas, que era minha maior dificuldade, Isabel continuava caminhando devagar com muita dor no joelho, mas acredito que os 3 chegaremos em Santiago de Compostela amanhã.
 
+![](/images/blog/6_134155-1024x576.jpg#img)
+
 O sol começou a aparecer de mansinho e se mostrou em todo o seu esplendor, ainda que gelado para os meus parâmetros, mas lindo de viver, passamos por muitas flores que coloriu meus olhos e meu coração.
 
-![](/images/blog/6_134155-1024x576.jpg#img)
+![](/images/blog/6_194517-1024x498.jpg#img-three)![](/images/blog/6_194413-1024x498.jpg#img-three)![](/images/blog/6_150015-1024x498.jpg#img-three)
 
 Adiante passamos por uma multidão de jovens fazendo o caminho, pareciam de alguma escola católica devido às músicas, para mim eles estavam turistando, muitos namorando de mãos dadas, passeando devagar, foi difícil ultrapassa-los, preferimos parar e almoçar para que eles continuassem seu passeio. O local era mais moderno que os outros por que passamos, encontramos lá um brasileiro que mora na França e que fazia o caminho de volta a pé com seu cachorro.
 
