@@ -10,7 +10,7 @@ title = "O Caminhar"
 identifier = "about"
 name = "Sobre mim"
 url = "/"
-weight = 2
+weight = 3
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
