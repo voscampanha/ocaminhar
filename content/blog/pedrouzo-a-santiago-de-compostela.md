@@ -62,6 +62,8 @@ Sim Isabel, começamos com sol e temos a vida toda para esse recomeço – daqui
 <div>
 ![](/images/blog/7_125756-1024x768.jpg#img-three)![](/images/blog/7_125917-e1559510720902-768x1024.jpg#img-three)![](/images/blog/7_130018-e1559510748442-768x1024.jpg#img-three)
 </div>
+![](/images/blog/7_130040-e1559510801599-768x1024.jpg#img)
+
 Abraçamos o Santo apenas no dia seguinte, mas a espera valeu a pena.
 
 Hora de fazer um breve resumo sobre como começou a peregrinação: Conta a lenda que após a decapitação no ano de 43, o corpo do apóstolo Tiago foi levado de volta à Espanha, local onde fazia seu apostolado,tendo sido enterrado na região que hoje é a Galícia no norte da Espanha e que depois de um longo tempo seu túmulo caiu no esquecimento. No século IX, um eremita chamado Pelágio relatou a visão de uma **‘chuva de estrelas’** e com uma mensagem para escavar a terra naquele local, assim o bispo do local ordenou a escavação encontrando os restos mortais do apóstolo Tiago. O Rei das Astúrias mandou construir 3 Igrejas no lugar, dando-se assim o início às primeiras peregrinações, somente com o número crescente de peregrinos foi construída a majestosa Catedral e consta que sua inauguração foi em 1211.
