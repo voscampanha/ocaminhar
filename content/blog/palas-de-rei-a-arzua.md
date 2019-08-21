@@ -21,21 +21,23 @@ Saímos de Palas de Rei numa chuva muito forte, o frio era intenso e assim foi u
 ![](/images/blog/5_140842-1.jpg#img)
 
 Passamos por bosques, onde provavelmente viveram os Celtas e fizeram ali os seus rituais para a saúde, tanto física quanto espiritual e isso parece que me deu força, ele é simplesmente lindo, a sua energia é perfeita. A verdade é que eu tive vontade de ficar ali o resto do dia, mas não dava né, ainda tinha muita chuva pela frente.
-
+<div>
 ![](/images/blog/5_115358-1024x498.jpg#img-three)![](/images/blog/5_095237-1024x498.jpg#img-three)![](/images/blog/5_095610-1024x498.jpg#img-three)
-
+</div>
+<div>
 ![](/images/blog/5_141108-1024x498.jpg#img-three)![](/images/blog/5_140839-1024x498.jpg#img-three)![](/images/blog/5_141733.jpg#img-three)
-
+</div>
+<div>
 ![](/images/blog/5_141257.jpg#img-three)![](/images/blog/5_152826.jpg#img-three)![](/images/blog/5_115354-1.jpg#img-three)
-
+</div>
 Enquanto percorria o ‘bosque encantado’, que mais parecia fazer parte de um filme épico de Santiago, e em certo momento eu tive a impressão que tudo o que tinha me ocorrido de ruim no passado, todo o sofrimento, toda aquela angustia do passado… parece que tudo não tinha mais muito sentido… que… eu não consigo explicar bem em palavras, mas o fato de ter uma infância muito sofrida, ter sofrido rejeição, abusos, violências, um casamento desfeito, amores que se foram, que me deixaram e que eu deixei… parece que não fazia mais sentido todo aquele sofrimento… parece que tinha ficado tão para trás, mas tão pra trás que não importava mais, talvez eu tenha que parar para pensar direito a respeito disso.
 
 Eu e Cláudio começamos  conversar sobre o bosque, os celtas, a energia que ali vibrava e o assunto foi ficando cada vez mais interessante que nos esquecemos de olhar pra ver se Isabel estava nos acompanhando, a partir de certa altura da caminhada ela começou a ficar bem lenta por causa da dor no joelho e por um bom tempo andava Cláudio na frente, eu no meio em fila indiana e cuidava sempre se Isabel estava vindo, porém com a conversa nos esquecemos de olhar e andamos mais de meia hora conversando, quando me dei conta de Isabel, paramos mesmo na chuva e a esperamos e nada de ela aparecer, Cláudio ligou ela não atendeu, ligou outras vezes até que ela retornou e não sabia onde estava, havia se perdido, fiquei preocupada esqueci da dor, do frio e da chuva, graças a Deus a rede móvel funciona muito bem lá e foi assim que Isabel conseguiu chegar até nós, estava debilitada, mancava muito e disse que ia desistir, nós a animamos e ela tomou um remédio para dores que trazia, assim continuou, dali pra diante não a deixamos mais a sós e ainda bem que a chuva deu uma trégua e começamos a ouvir músicas de todos os tipos o que animou a todos.
 
 Passamos pelo O Couto com seu gigantesco Cabazo, que antigamente era usado guardar milho.
-
+<div>
 ![](/images/blog/5_105342-1024x498.jpg#img-three)![](/images/blog/5_110245-1.jpg#img-three)![](/images/blog/5_110250.jpg#img-three)
-
+</div>
 Após, passamos por um bela ponte medieval que leva até San Xóan de Furelos, última aldeia antes de Melide.
 
 ![](/images/blog/5_110600-1024x498.jpg#img)
@@ -44,9 +46,9 @@ Após, passamos por um bela ponte medieval que leva até San Xóan de Furelos, �
 
 Iglesia de San Xoán de Furelos
 Ponte medieval de Furelos em Melide, Galícia.
-
+<div>
 ![](/images/blog/5_115826-1.jpg#img-three)![](/images/blog/5_115941-1024x498.jpg#img-three)![](/images/blog/5_115946-1024x512.jpg#img-three)
-
+</div>
 ![](/images/blog/5_120031-1024x576.jpg#img)
 
 Chegamos a Melide e resolvemos almoçar, estávamos precisando, me dei conta de como estava suja e minhas botas cheias de lama quando entrei no restaurante – devo confessar que tive vergonha da sujeira que deixei – mas é assim o Caminho de Santiago e acredito que estão acostumados com isso – o fato é que comi um espaguete que era incrivelmente delicioso – será que era a fome??? Depois da comilança seguimos viagem e a direção das setas passava pela cidade e algo nessa cidade me fez gostar muito dali.
