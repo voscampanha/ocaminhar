@@ -43,6 +43,9 @@ Em pouco tempo adentramos no Concello de Santiago de Compostela – pareceu-me b
 <div>
 ![](/images/blog/7_110217-1024x768.jpg#img-three)![](/images/blog/7_110305_007-1024x768.jpg#img-three)![](/images/blog/7_115337-1024x498.jpg#img-three)
 </div>
+
+![](/images/blog/7_114257-e1559510382235-768x1024.jpg)![](/images/blog/7_114202-e1559510449293-768x1024.jpg)![](/images/blog/7_114618-e1559510410850-768x1024.jpg)
+
 Buscamos a Igreja de San Francisco para assistirmos à missa – infelizmente a Catedral de Santiago está em obras e não se realiza missa nem o  bota fumeiro – quando entramos na igreja o padre estava acolhendo aos peregrinos e bem no instante em que entrei, estava falando dos brasileiros e portugueses – chorei mais uma vez – assistimos à missa e eu com os pés esticados – estavam bem cansados devido ao ritmo acelerado.
 
 Após à missa quando saímos eu percebi que não sentia mais cansaço em meus pés – não sei o que aconteceu – se foi psicológico ou algo inexplicável – mas tinha a sensação que tinha acabado de me levantar – descansada – e novamente mais lágrimas.
