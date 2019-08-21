@@ -13,6 +13,7 @@ No quinto dia, momentos que antecedeu à saída, desci do quarto antes dos compa
 <div>
 ![](/images/blog/5_093320-1024x498.jpg#img-three)![](/images/blog/5_095559-1024x498.jpg#img-three)![](/images/blog/5_095610-1024x498.jpg#img-three)
 </div>
+
 ![](/images/blog/5_095217.jpg#img)
 
 Saímos de Palas de Rei numa chuva muito forte, o frio era intenso e assim foi um bom período, mas conseguimos andar mais de 14km sem parar uma única vez, o cansaço foi grande, as dores intensas, eu sofria com meu dedinho, com todo o meu quadril, Isabel sofria com o joelho, e o Cláudio também sofria com nervo ciático, estávamos os três em sofrimento, mas uma alegria nos apoderou, uma certeza da vitória se fez presente em cada um de nós.
