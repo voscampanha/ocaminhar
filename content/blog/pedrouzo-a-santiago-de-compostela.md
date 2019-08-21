@@ -23,8 +23,12 @@ Vimos de longe o José e Milena e percebemos que ela estava com dores.
 
 Vi no percurso, perto de Lavacolla, pichado em uma placa que indica o caminho – Vera te amo – gritei alto – Também te amo, seja quem for! – Sem me importar com os outros peregrinos.
 
-Chegando a Lavacolla à frente da Igreja de San Pelayo, faltando uns 12km para chegar ao nosso destino final, Isabel pede que sigamos à frente sem ela, por estar lenta e precisando terminar o Caminho a sós para refletir sobre decisões que precisa tomar em sua vida. Apesar de estarmos preocupados com ela,após um pequeno chá para esquentar, eu e Cláudio tomamos a dianteira respeitando o desejo dela, mas nos comunicando sempre para saber do estado de seu joelho.
+![](/images/blog/7_090034.jpg#img)
 
+Chegando a Lavacolla à frente da Igreja de San Pelayo, faltando uns 12km para chegar ao nosso destino final, Isabel pede que sigamos à frente sem ela, por estar lenta e precisando terminar o Caminho a sós para refletir sobre decisões que precisa tomar em sua vida. Apesar de estarmos preocupados com ela,após um pequeno chá para esquentar, eu e Cláudio tomamos a dianteira respeitando o desejo dela, mas nos comunicando sempre para saber do estado de seu joelho.
+<div>
+![](/images/blog/7_091142-1024x498.jpg#img-three)![](/images/blog/7_091158-1024x498.jpg#img-three)![](/images/blog/7_091224.jpg#img-three)
+</div>
 A ansiedade por chegar tomou conta e começamos a caminhar em ritmo acelerado, a neblina insistia em permanecer, mas sem chuva, segundo dia sem chuva – aleluia – nem percebi que estávamos passando pela esperada subida ao Monte do Gozo que tanto estava me assustando devido aos relatos dos peregrinos – só sorrisos quando vejo ao longe –Parque Monte do gozo – resolvemos seguir sem desviar do caminho para chegar a tempo na missa do peregrino – que descemos saltitantes o Monte do Gozo – não dava para enxergar muito por causa do nevoeiro.
 
 Em pouco tempo adentramos no Concello de Santiago de Compostela – pareceu-me belíssima – paramos em uma lanchonete para ir à ‘casa de banho’ e tomarmos mais alguma coisa quente e seguimos acelerados pelas ruas da cidade – éramos só risos – percorrendo a rua da Acibechería ouvimos as melodias das notas da gaita-de-foles que nos dava as boas vindas, assim como a todos os peregrinos do Caminho Francês e assim adentramos na esperada Praça do Obradoiro – chorei – era muita emoção – a verdade é que eu nem acreditava que seria capaz de andar tantos quilômetros assim, dias seguidos – bem mais que os 162km constantes na Certidão que depois fomos buscar – bem mais de 170 km, com certeza.
