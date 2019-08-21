@@ -40,6 +40,8 @@ Adiante passamos por uma multidão de jovens fazendo o caminho, pareciam de algu
 
 Depois do almoço, revigorados partimos felizes, este final, pareceu um passeio, deu tempo para o Claudio fazer macaquice e eu que não sou boba documentei!!!
 
+![](/images/blog/6_144210_021.jpg#img)
+
 O dia que começou com uma neblina muito forte em que não víamos quase nada, estava terminando com muito sol e chegamos a tirar parte das blusas, que no meu caso eram muitas, meu dedinho dava sinal que existia, mas já não incomodava tanto e meu quadril parecia doer menos, parecia que estávamos mais fortalecidos neste dia e mais alegres, porque estávamos apenas a um dia de completarmos o Caminho de Santiago de Compostela que nos propusemos fazer.
 
 Chegamos em uma boa hora no hotel, que era bem aconchegante, e aproveitei para aplicar reiki no Cláudio.
