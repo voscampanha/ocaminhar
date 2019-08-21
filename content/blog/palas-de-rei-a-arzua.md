@@ -33,6 +33,8 @@ Eu e Cláudio começamos  conversar sobre o bosque, os celtas, a energia que ali
 
 Passamos pelo O Couto com seu gigantesco Cabazo, que antigamente era usado guardar milho.
 
+![](/images/blog/5_105342-1024x498.jpg#img-three)![](/images/blog/5_110245-1.jpg#img-three)![](/images/blog/5_110250.jpg#img-three)
+
 Após, passamos por um bela ponte medieval que leva até San Xóan de Furelos, última aldeia antes de Melide.
 
 ![](/images/blog/5_110600-1024x498.jpg#img)
