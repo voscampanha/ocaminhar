@@ -25,6 +25,7 @@ Igreja Santa María a Real do Cebreiro, conta-se que aqui ocorreu um milagre, ma
 <div>
 ![alt](/images/20190406_114905.jpg#img.svg#img-divide)   ![alt](/images/20190406_105427-1.svg#img-divide)
 </div>
+
 Eu estava deslumbrada, acho que o sentimento verdadeiro era pavor (risos), eu não conseguia nem conciliar bem os meus sentimentos de ver tanta neve, era lindo, sim lindo demais, mas apavorante para quem vai fazer um caminho à pé e não tem assim tanta resistência e nem estava com um preparo para caminhar na neve, estava com um casaco emprestado, bastões emprestados, o correto é quase tudo emprestado, queria agora ter um emoji para demonstrar o quanto estou achando graça.
 
 ![](/images/blog/1_tumblr_mz5p7cyqvK1snsga0o1_500.gif#img)
@@ -51,6 +52,7 @@ Grande entusiasmo inicial, mal imaginava o que vinha pela frente…
 <div>
 ![](/images/blog/1_111247.jpg#img-divide)![](/images/blog/1_115819-1.jpg#img-divide)
 </div>
+
 Cláudio sempre andando à frente e por um momento acredito que ele começou a olhar o celular e eu tomei a dianteira e após um tempo de percurso, provavelmente mais de um quilômetro o Cláudio gritou – olha faz tempo que eu não vejo nenhuma seta – e eu respondi – acho que eu também não, mas eu não estava prestando atenção – mas atrás veio a Isabel – acho que estamos certos – percorremos mais um pouco esperando que iríamos encontrar uma seta com a vieira, paramos em frente a umas casas, que não sei bem se eram residenciais ou fazenda ou alguma fábrica caseira, mas incrível estava tudo fechado, não tinha ninguém, a gente chamou, gritou e ninguém respondeu, tentamos descobrir onde estávamos, mas não conseguimos… então… o Cláudio ficou muito irritado – Como vocês não prestam atenção, quem vai na frente tem que prestar atenção – muito bravo – eu me senti culpada, pedi desculpa e ele não ouvia minhas desculpas, continuava muito bravo – vocês não podem ficar esperando por mim, tem que olhar -. Resolvemos voltar, devíamos ter percorrido por volta de 2 km, Cláudio na frente, só encontramos a última seta que tínhamos visto, o Cláudio que já estava bem acima em um morro nos gritou, de cima, que ali era o caminho e então eu e Isabel vimos que a seta estava torta, colocada de forma errada e que devido à neve não dava para ver o caminho, dando a entender que o caminho que tínhamos percorrido era o certo, foi então que me dei conta que no caminho havia passos de uma pessoa no sentido contrário ao nosso e eu pensava, porque alguém está voltando? Mas não tinha me dado conta disso, talvez se tivesse falado teríamos parado para refletir e perceber que os passos no sentido contrário deveriam ser de alguém que também teria perdido o caminho, porque a seta estava errônea de forma a equivocar todos que passassem e se a neve não estivesse bem alta, uns 40 cm, poderíamos ter visto o caminho, com isso me dei conta de que não estava errada, limpando a minha conhecida tendência de culpar-me por tudo.
 
 Até aquele momento, na minha cabeça eu estava dependendo de alguém, foi então que o primeiro aprendizado surgiu, percebi a importância de contar com outras pessoas, mas também da responsabilidade mútua e, no caso, de não ficar esperando apenas que o Cláudio ia fazer isso por mim, pelo fato ser uma pessoa cuidadora por natureza, já ter feito uma vez o Caminho de Compostela e ser cidadão europeu, vi que tinha que tomar as rédeas da situação.
@@ -60,6 +62,7 @@ Encontrado o caminho entramos na neve fofa e funda seguindo a direção da vieir
 <div>
 ![](/images/blog/1_112237.jpg#img-divide)![](/images/blog/1_124648-2.jpg#img-divide)
 </div>
+
 A situação começou a ficar difícil porque em primeiro lugar não tínhamos equipamento próprio para caminhar na neve e ela estava muito fofa e funda, em alguns momentos a gente afundava o pé até o joelho e não sabíamos o que íamos encontrar lá embaixo, então tínhamos que andar muito devagar, bem andávamos também lentamente porque havia falta de força para caminhar, o esforço físico era grande para andar daquela forma. Após um tempo andando naquelas condições começamos a enrijecer de frio, ficamos com os pés molhados. Neste primeiro dia eu não conseguia precisar o quanto de tempo levava para percorrer o caminho, lembro que depois da etapa de neve fofa e funda a seta nos conduziu para um percurso que seguia ao lado da rodovia em um nível abaixo, digamos que talvez um metro e meio abaixo da rodovia, o Cláudio seguia na frente a uma boa distância de mim e da Isabel, devo esclarecer que ele tem uma resistência admirável e por isso tinha dificuldade de andar tão devagar como a gente, eu e a Isabel em fileira, eu na frente e ela atrás há uns dez ou quinze metros de distância quando de repente fui atingida por uma quantidade grande de neve que me jogou com força para o lado, quase caí morro abaixo, quando consegui aprumar-me olhei para trás e vi Isabel rindo e dizendo que era o caminhão que limpa a neve na estrada e joga para os lados e o motorista não nos viu porque estávamos em um nível mais abaixo.
 
 ![](/images/blog/1_907bbd591caf24702c9dc0a1b54c83eb.gif#img)
@@ -106,4 +109,5 @@ Encontramos o albergue já bem tarde, perto das 19 horas e conseguimos as últim
 <div>
 ![](/images/blog/1_205654-1024x768.jpg#img-divide)    ![](/images/blog/1_205700-e1558551129630-768x1024.jpg#img-divide)
 </div>
+
 Devo dizer para finalizar que na Europa no início de abril é primavera e que neve foi um fato atípico nesse período, conforme nos foi dito pelo caminho.
