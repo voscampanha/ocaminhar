@@ -29,6 +29,8 @@ O sol começou a aparecer de mansinho e se mostrou em todo o seu esplendor, aind
 ![](/images/blog/6_145926-1024x498.jpg#img-three)![](/images/blog/6_112433.jpg#img-three)![](/images/blog/6_113706-1024x498.jpg#img-three)
 </div>
 
+![](/images/blog/6_113740.jpg#img)
+
 Adiante passamos por uma multidão de jovens fazendo o caminho, pareciam de alguma escola católica devido às músicas, para mim eles estavam turistando, muitos namorando de mãos dadas, passeando devagar, foi difícil ultrapassa-los, preferimos parar e almoçar para que eles continuassem seu passeio. O local era mais moderno que os outros por que passamos, encontramos lá um brasileiro que mora na França e que fazia o caminho de volta a pé com seu cachorro.
 
 Depois do almoço, revigorados partimos felizes, este final, pareceu um passeio, deu tempo para o Claudio fazer macaquice e eu que não sou boba documentei!!!
