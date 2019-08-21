@@ -71,7 +71,6 @@ E o caminho se fez lindo até Arzua.
 </div>
 
 Apesar da dificuldade no Caminho, ter sido um trecho muito longo (31,5km), das dores, nós chegamos bem, mais tarde do que esperávamos em Arzua, mais de 18h, mas com um céu lindo, quente, nada que se podia dizer – oh que calor – mas uma temperatura bem mais aceitável e prometendo que o outro dia seria melhor, para chegar ao hotel que também ficava próximo ao Caminho passamos pela cidade, com sua praça que parecia saída de um conto de fadas – só mostrando para entenderem – essa cidade também me encantou os olhos, agora só tínhamos que vencer naquele dia apenas os lances de escadas que nos levavam ao terceiro andar com as mochilas na costa – o hotel não tinha elevador.
-
 <div>
 ![](/images/blog/5_195931-1024x498.jpg#img-three)![](/images/blog/5_195945-1024x498.jpg#img-three)![](/images/blog/5_200244.jpg#img-three)
 </div>
