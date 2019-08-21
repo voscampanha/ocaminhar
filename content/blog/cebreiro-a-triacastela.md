@@ -58,7 +58,6 @@ Cláudio sempre andando à frente e por um momento acredito que ele começou a o
 Até aquele momento, na minha cabeça eu estava dependendo de alguém, foi então que o primeiro aprendizado surgiu, percebi a importância de contar com outras pessoas, mas também da responsabilidade mútua e, no caso, de não ficar esperando apenas que o Cláudio ia fazer isso por mim, pelo fato ser uma pessoa cuidadora por natureza, já ter feito uma vez o Caminho de Compostela e ser cidadão europeu, vi que tinha que tomar as rédeas da situação.
 
 Encontrado o caminho entramos na neve fofa e funda seguindo a direção da vieira.
-
 <div>
 ![](/images/blog/1_112237.jpg#img-divide)![](/images/blog/1_124648-2.jpg#img-divide)
 </div>
