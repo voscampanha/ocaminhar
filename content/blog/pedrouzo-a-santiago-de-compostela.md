@@ -33,6 +33,9 @@ A ansiedade por chegar tomou conta e começamos a caminhar em ritmo acelerado, a
 <div>
 ![](/images/blog/7_100010-1024x498.jpg#img-three)![](/images/blog/7_105033.jpg#img-three)![](/images/blog/7_100005.jpg#img-three)
 </div>
+<div>
+![](/images/blog/7_105338.jpg#img-divide)![](/images/blog/7_105334-1024x498.jpg#img-divide)
+</div>
 Em pouco tempo adentramos no Concello de Santiago de Compostela – pareceu-me belíssima – paramos em uma lanchonete para ir à ‘casa de banho’ e tomarmos mais alguma coisa quente e seguimos acelerados pelas ruas da cidade – éramos só risos – percorrendo a rua da Acibechería ouvimos as melodias das notas da gaita-de-foles que nos dava as boas vindas, assim como a todos os peregrinos do Caminho Francês e assim adentramos na esperada Praça do Obradoiro – chorei – era muita emoção – a verdade é que eu nem acreditava que seria capaz de andar tantos quilômetros assim, dias seguidos – bem mais que os 162km constantes na Certidão que depois fomos buscar – bem mais de 170 km, com certeza.
 
 Buscamos a Igreja de San Francisco para assistirmos à missa – infelizmente a Catedral de Santiago está em obras e não se realiza missa nem o  bota fumeiro – quando entramos na igreja o padre estava acolhendo aos peregrinos e bem no instante em que entrei, estava falando dos brasileiros e portugueses – chorei mais uma vez – assistimos à missa e eu com os pés esticados – estavam bem cansados devido ao ritmo acelerado.
