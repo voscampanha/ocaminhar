@@ -21,6 +21,8 @@ Mais de 10h da manhã, tínhamos andado 6kme a neblina insistia em permanecer, a
 
 O sol começou a aparecer de mansinho e se mostrou em todo o seu esplendor, ainda que gelado para os meus parâmetros, mas lindo de viver, passamos por muitas flores que coloriu meus olhos e meu coração.
 
+![](/images/blog/6_134155-1024x576.jpg#img)
+
 Adiante passamos por uma multidão de jovens fazendo o caminho, pareciam de alguma escola católica devido às músicas, para mim eles estavam turistando, muitos namorando de mãos dadas, passeando devagar, foi difícil ultrapassa-los, preferimos parar e almoçar para que eles continuassem seu passeio. O local era mais moderno que os outros por que passamos, encontramos lá um brasileiro que mora na França e que fazia o caminho de volta a pé com seu cachorro.
 
 Depois do almoço, revigorados partimos felizes, este final, pareceu um passeio, deu tempo para o Claudio fazer macaquice e eu que não sou boba documentei!!!
