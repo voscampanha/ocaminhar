@@ -59,7 +59,9 @@ Sentamos ao sol, no meio da Praça – então refleti sobre o milagre que eu esp
 Ainda estava em estado meditativo quando Isabel chegou – cansada, chorando de alegria e inteira – nos abraçamos e choramos os três, fica aqui a frase dita por Isabel: _“Começamos com neve, terminamos com nevoeiro e começamos com Sol.”_
 
 Sim Isabel, começamos com sol e temos a vida toda para esse recomeço – daqui para frente sei que cada um de nós seguirá em sua vida com um propósito mais humanitário, com um olhar mais generoso, tanto para com os outros como para conosco, sabemos que somos capazes de enfrentar os problemas da vida e que devemos ter uma visão menos rígida e mais alegre de nosso caminhar por este planeta.
-
+<div>
+![](/images/blog/7_125756-1024x768.jpg#img-three)![](/images/blog/7_125917-e1559510720902-768x1024.jpg#img-three)![](/images/blog/7_130018-e1559510748442-768x1024.jpg#img-three)
+</div>
 Abraçamos o Santo apenas no dia seguinte, mas a espera valeu a pena.
 
 Hora de fazer um breve resumo sobre como começou a peregrinação: Conta a lenda que após a decapitação no ano de 43, o corpo do apóstolo Tiago foi levado de volta à Espanha, local onde fazia seu apostolado,tendo sido enterrado na região que hoje é a Galícia no norte da Espanha e que depois de um longo tempo seu túmulo caiu no esquecimento. No século IX, um eremita chamado Pelágio relatou a visão de uma **‘chuva de estrelas’** e com uma mensagem para escavar a terra naquele local, assim o bispo do local ordenou a escavação encontrando os restos mortais do apóstolo Tiago. O Rei das Astúrias mandou construir 3 Igrejas no lugar, dando-se assim o início às primeiras peregrinações, somente com o número crescente de peregrinos foi construída a majestosa Catedral e consta que sua inauguração foi em 1211.
