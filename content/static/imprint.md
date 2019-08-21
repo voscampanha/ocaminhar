@@ -1,6 +1,9 @@
 ---
 title: Mandalas
 date: 2018-10-07T09:12:00.000+00:00
+menu:
+  main:
+    weight: 3
 
 ---
 # Mandalas
