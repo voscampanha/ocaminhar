@@ -45,7 +45,9 @@ Depois do almoço, revigorados partimos felizes, este final, pareceu um passeio,
 O dia que começou com uma neblina muito forte em que não víamos quase nada, estava terminando com muito sol e chegamos a tirar parte das blusas, que no meu caso eram muitas, meu dedinho dava sinal que existia, mas já não incomodava tanto e meu quadril parecia doer menos, parecia que estávamos mais fortalecidos neste dia e mais alegres, porque estávamos apenas a um dia de completarmos o Caminho de Santiago de Compostela que nos propusemos fazer.
 
 ![](/images/blog/6_145837-e1559427030180-768x1024.jpg#img-three)![](/images/blog/6_145829-1-e1559427681726-768x1024.jpg#img-three)![](/images/blog/6_141121-1-e1559428390804-768x1024.jpg#img-three)
-
+<div>
+![](/images/blog/6_144828-1024x768.jpg#img-three)![](/images/blog/6_105852.jpg#img-three)![](/images/blog/6_145048-1-1024x498.jpg#img-three)
+</div>
 ![](/images/blog/6_145847-1.jpg#img)
 
 Chegamos em uma boa hora no hotel, que era bem aconchegante, e aproveitei para aplicar reiki no Cláudio.
