@@ -19,6 +19,7 @@ weight = 1
 [params]
 description = "Viajando com a Vera!"
 logo = "/images/logo.png"
+favicon = "/images/favicon.png"
 [params.author]
 description = "Peregrina deste blog."
 name = "Vera Oliveira"
@@ -33,3 +34,6 @@ title = "Vera Oliveira"
 facebook = "reikivera"
 instagram = "veralucia.oliveira63"
 linkedin = "vera-lucia-de-oliveira-32100315b"
+[params.meta]
+description = "Blog Pessoal com detalhes de cursos de reiki, viagens, mandalas artesanais e terapias alternativas!"
+keywords = "reiki, mandala, fitoenergética, terapia, viagem"
