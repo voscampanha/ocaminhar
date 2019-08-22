@@ -16,7 +16,7 @@ No segundo dia levantamos tarde devido ao cansaço do dia anterior, meu estômag
 
 Passamos por caminhos pedregosos, todo o cuidado era pouco para não cair, porém a paisagem era de tirar o fôlego, as pernas por alguns momentos titubeavam e por falta de banheiros por um longo espaço de tempo eu e Isabel tivemos que nos aliviar no mato. As subidas e descidas eram uma constante – Cadê as planícies de meu Mato Grosso do Sul?? – A minha resistência nas subidas era quase zero, meu coração acelerava, suava mesmo no frio intenso, a respiração ofegante, precisava respirar de boca aberta – o que me fez aparecer aftas – no meio da subida parava e precisava ficar arcada sobre os bastões para recuperar o fôlego, a cada subida o suplício, Cláudio e Isabel me falavam – Vera, o segredo é subir devagar, mas não parar – porém eu não conseguia, a taquicardia me obrigava parar.
 <div>
-![](/images/blog/2/2_143756-1024x610.jpg#img-three)![](/images/blog/2/133331.jpg#img-three)![](/images/blog/2/134752.jpg#img-three)
+![](/images/blog/2/143756-1024x610.jpg#img-three)![](/images/blog/2/133331.jpg#img-three)![](/images/blog/2/134752.jpg#img-three)
 </div>
 <div>
 ![](/images/blog/2/124347.jpg#img-three)![](/images/blog/2/105218.jpg#img-three)![](/images/blog/2/102452-1024x498.jpg#img-three)
