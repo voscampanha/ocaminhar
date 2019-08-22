@@ -2,7 +2,7 @@
 title: Pedrouzo a Santiago de Compostela – (12.04.19)
 date: 2019-06-02T07:40:11.000+00:00
 publishdate: 2019-06-02T07:40:11.000+00:00
-image: "/images/blog/8.jpg"
+image: "/images/blog/7/capa.jpg"
 tags:
 - santiago de compostela
 comments: false
@@ -11,11 +11,11 @@ imagepost: false
 ---
 No sétimo e último dia, levantamos 6h, saímos às 7h de Pedrouzo, ainda escuro – na Espanha nessa estação do ano ainda é noite nesse horário – eu esqueci a minha lanterna de cabeça na mochila, passamos por um bosque escuro, iluminado apenas pela lanterna do Cláudio e da Isabel e o frio estava bem intenso, acredito que uns 4 graus e com muita neblina.
 
-![](/images/blog/7_081423.jpg#img)
+![](/images/blog/7/081423.jpg#img)
 
 Em pouco tempo saímos do bosque e as luzes dos vilarejos nos guiaram, já caminhados quase metade do caminho o frio parecia ficar maior, os meus dedos das mãos ficaram enrijecidos, congelados, Isabel começou a ficar sem forças, andando bem atrás de nós, com muitas dores no joelho, em um ritmo bem baixo, Cláudio começou a ficar ansioso porque queria andar mais rápido e chegar na missa dos peregrinos que acontece ao meio dia e não estávamos conseguindo caminhar como nos propusemos, havia muita neblina, muito frio e tudo o que eu esperava era chegar bem.
 <div>
-![](/images/blog/7_084555.jpg#img-three)![](/images/blog/7_084744-e1559506522327-768x1024.jpg#img-three)![](/images/blog/7_085527.jpg#img-three)
+![](/images/blog/7/084555.jpg#img-three)![](/images/blog/7/084744-e1559506522327-768x1024.jpg#img-three)![](/images/blog/7/085527.jpg#img-three)
 </div>
 
 Passamos por um local em que a rodovia estava em obras o que aumentou umpouco mais o caminho devido ao desvio.
@@ -24,32 +24,32 @@ Vimos de longe o José e Milena e percebemos que ela estava com dores.
 
 Vi no percurso, perto de Lavacolla, pichado em uma placa que indica o caminho – Vera te amo – gritei alto – Também te amo, seja quem for! – Sem me importar com os outros peregrinos.
 
-![](/images/blog/7_090034.jpg#img)
+![](/images/blog/7/090034.jpg#img)
 
 Chegando a Lavacolla à frente da Igreja de San Pelayo, faltando uns 12km para chegar ao nosso destino final, Isabel pede que sigamos à frente sem ela, por estar lenta e precisando terminar o Caminho a sós para refletir sobre decisões que precisa tomar em sua vida. Apesar de estarmos preocupados com ela,após um pequeno chá para esquentar, eu e Cláudio tomamos a dianteira respeitando o desejo dela, mas nos comunicando sempre para saber do estado de seu joelho.
 <div>
-![](/images/blog/7_091142-1024x498.jpg#img-three)![](/images/blog/7_091158-1024x498.jpg#img-three)![](/images/blog/7_091224.jpg#img-three)
+![](/images/blog/7/091142-1024x498.jpg#img-three)![](/images/blog/7/091158-1024x498.jpg#img-three)![](/images/blog/7/091224.jpg#img-three)
 </div>
 
 A ansiedade por chegar tomou conta e começamos a caminhar em ritmo acelerado, a neblina insistia em permanecer, mas sem chuva, segundo dia sem chuva – aleluia – nem percebi que estávamos passando pela esperada subida ao Monte do Gozo que tanto estava me assustando devido aos relatos dos peregrinos – só sorrisos quando vejo ao longe –Parque Monte do gozo – resolvemos seguir sem desviar do caminho para chegar a tempo na missa do peregrino – que descemos saltitantes o Monte do Gozo – não dava para enxergar muito por causa do nevoeiro.
 <div>
-![](/images/blog/7_100010-1024x498.jpg#img-three)![](/images/blog/7_105033.jpg#img-three)![](/images/blog/7_100005.jpg#img-three)
+![](/images/blog/7/100010-1024x498.jpg#img-three)![](/images/blog/7/105033.jpg#img-three)![](/images/blog/7/100005.jpg#img-three)
 </div>
 <div>
-![](/images/blog/7_105338.jpg#img-divide)![](/images/blog/7_105334-1024x498.jpg#img-divide)
+![](/images/blog/7/105338.jpg#img-divide)![](/images/blog/7/105334-1024x498.jpg#img-divide)
 </div>
 
 Em pouco tempo adentramos no Concello de Santiago de Compostela – pareceu-me belíssima – paramos em uma lanchonete para ir à ‘casa de banho’ e tomarmos mais alguma coisa quente e seguimos acelerados pelas ruas da cidade – éramos só risos – percorrendo a rua da Acibechería ouvimos as melodias das notas da gaita-de-foles que nos dava as boas vindas, assim como a todos os peregrinos do Caminho Francês e assim adentramos na esperada Praça do Obradoiro – chorei – era muita emoção – a verdade é que eu nem acreditava que seria capaz de andar tantos quilômetros assim, dias seguidos – bem mais que os 162km constantes na Certidão que depois fomos buscar – bem mais de 170 km, com certeza.
 <div>
-![](/images/blog/7_110422.jpg#img-three)![](/images/blog/7_111317.jpg#img-three)![](/images/blog/7_111804-Copia-1024x498.jpg#img-three)
+![](/images/blog/7/110422.jpg#img-three)![](/images/blog/7/111317.jpg#img-three)![](/images/blog/7/111804-Copia-1024x498.jpg#img-three)
 </div>
 <div>
-![](/images/blog/7_110217-1024x768.jpg#img-three)![](/images/blog/7_110305_007-1024x768.jpg#img-three)![](/images/blog/7_115337-1024x498.jpg#img-three)
+![](/images/blog/7/110217-1024x768.jpg#img-three)![](/images/blog/7/110305_007-1024x768.jpg#img-three)![](/images/blog/7/115337-1024x498.jpg#img-three)
 </div>
 
-![](/images/blog/7_114257-e1559510382235-768x1024.jpg#img-three)![](/images/blog/7_114202-e1559510449293-768x1024.jpg#img-three)![](/images/blog/7_114618-e1559510410850-768x1024.jpg#img-three)
+![](/images/blog/7/114257-e1559510382235-768x1024.jpg#img-three)![](/images/blog/7/114202-e1559510449293-768x1024.jpg#img-three)![](/images/blog/7/114618-e1559510410850-768x1024.jpg#img-three)
 <div>
-![](/images/blog/7_114637.jpg#img-divide)![](/images/blog/7_114418.jpg#img-divide)
+![](/images/blog/7/114637.jpg#img-divide)![](/images/blog/7/114418.jpg#img-divide)
 </div>
 
 Buscamos a Igreja de San Francisco para assistirmos à missa – infelizmente a Catedral de Santiago está em obras e não se realiza missa nem o  bota fumeiro – quando entramos na igreja o padre estava acolhendo aos peregrinos e bem no instante em que entrei, estava falando dos brasileiros e portugueses – chorei mais uma vez – assistimos à missa e eu com os pés esticados – estavam bem cansados devido ao ritmo acelerado.
@@ -64,9 +64,9 @@ Ainda estava em estado meditativo quando Isabel chegou – cansada, chorando de 
 
 Sim Isabel, começamos com sol e temos a vida toda para esse recomeço – daqui para frente sei que cada um de nós seguirá em sua vida com um propósito mais humanitário, com um olhar mais generoso, tanto para com os outros como para conosco, sabemos que somos capazes de enfrentar os problemas da vida e que devemos ter uma visão menos rígida e mais alegre de nosso caminhar por este planeta.
 <div>
-![](/images/blog/7_125756-1024x768.jpg#img-three)![](/images/blog/7_125917-e1559510720902-768x1024.jpg#img-three)![](/images/blog/7_130018-e1559510748442-768x1024.jpg#img-three)
+![](/images/blog/7/125756-1024x768.jpg#img-three)![](/images/blog/7/125917-e1559510720902-768x1024.jpg#img-three)![](/images/blog/7/130018-e1559510748442-768x1024.jpg#img-three)
 </div>
-![](/images/blog/7_130040-e1559510801599-768x1024.jpg#img)
+![](/images/blog/7/130040-e1559510801599-768x1024.jpg#img)
 
 Abraçamos o Santo apenas no dia seguinte, mas a espera valeu a pena.
 

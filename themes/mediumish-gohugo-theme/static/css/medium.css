@@ -44,11 +44,17 @@ pre {
     min-height: 300px;
 }
 
-.site-content {
+.site-content, .index-content {
     min-height: 60vh;
     padding-top: 1.5rem;
     margin-top: 57px;
     transition: all 0.4s;
+}
+
+.index-content{
+    background-image: url(../images/background.jpg);
+    background-size: 100%;
+
 }
 
 section {
@@ -807,10 +813,10 @@ iframe {
         margin-bottom: -50px;
         margin-top: 3rem;
         padding: 0;
-        height: 350px;
+        /* height: 350px; */
         border-radius: 0;
-        background-image: url(../images/jumbotron.svg);
-        background-size: cover;
+        /* background-image: url(../images/jumbotron.svg);
+        background-size: cover; */
     }
 
     .jumbotron.fortags .col-md-4 {
@@ -827,8 +833,8 @@ iframe {
     margin-top: 3rem;
     padding: 0;
     border-radius: 0;
-    background-image: url(../images/jumbotron.svg);
-    background-size: cover;
+    /* background-image: url(../images/jumbotron.svg);
+    background-size: cover; */
 }
 
 .jumbotron.fortags a {

@@ -3,7 +3,7 @@
 {{ end }}
 
 {{ define "main" }}
-    <div class="main-content">
+    <div class="index-content">
         <header class="text-center">
             {{ with .Site.Params.index.picture }}
                 <img src="{{ . | urlize | relURL }}" class="rounded-circle text-center index-image">
@@ -19,13 +19,14 @@
             <h6 class="index-text">{{ . | markdownify }}</h6>
             {{ end }}
         </section>
-    </div>
-    {{- partial "_shared/social.html" . -}}
-    {{ if isset .Site.Params.index "alertbar" }}
-    	{{ if .Site.Params.index.alertbar }}
-            {{- partial "_shared/alertbar.html" . -}}
+        {{- partial "_shared/social.html" . -}}
+        {{ if isset .Site.Params.index "alertbar" }}
+            {{ if .Site.Params.index.alertbar }}
+                {{- partial "_shared/alertbar.html" . -}}
+            {{ end }}
         {{ end }}
-    {{ end }}
+    </div>
+
 {{end}}
 
 {{ define "footer" }}
