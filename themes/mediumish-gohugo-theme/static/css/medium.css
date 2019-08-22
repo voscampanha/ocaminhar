@@ -51,12 +51,6 @@ pre {
     transition: all 0.4s;
 }
 
-.index-content{
-    background-image: url(../images/background.jpg);
-    background-size: 100%;
-
-}
-
 section {
     margin-bottom: 20px;
 }

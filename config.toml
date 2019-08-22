@@ -26,7 +26,7 @@ thumbnail = "/images/author.png"
 [params.index]
 alertbar = false
 mdtext = "Blog Pessoal com detalhes de cursos, viagens e mandalas!\\\n**Venha comigo por este caminho de vida plena.**\\\n### [O Caminhar] (https://ocaminhar.netlify.com/blog)"
-picture = "/images/foto.jpg"
+picture = "/images/foto_1.jpg"
 subtitle = "Peregrina, Artesã, Mestre REIKI!"
 title = "Vera Oliveira"
 [params.social]
