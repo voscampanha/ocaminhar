@@ -2,7 +2,7 @@
 comments = false
 date = "2019-09-03T16:55:47-04:00"
 draft = true
-image = "/images/20190412_213028.jpg"
+image = "/images/20190412_213104.jpg"
 imagepost = true
 publishdate = ""
 tags = [""]
