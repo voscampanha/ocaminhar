@@ -1,10 +1,10 @@
 +++
 comments = false
-date = "2019-09-03T16:55:47-04:00"
+date = "2019-04-12T16:55:47-04:00"
 draft = true
 image = "/images/20190412_213348.jpg"
 imagepost = true
-publishdate = ""
+publishdate = "2019-09-03T00:00:00-04:00"
 tags = [""]
 title = "Pós Caminho de Santiago"
 
