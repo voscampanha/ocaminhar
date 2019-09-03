@@ -25,6 +25,7 @@ fields:
   name: comments
   label: comments
 pages:
+- content/blog/pós-caminho-de-santiago.md
 - content/blog/triacastela-a-sarria.md
 - content/blog/arzua-a-pedrouzo.md
 - content/blog/palas-de-rei-a-arzua.md
