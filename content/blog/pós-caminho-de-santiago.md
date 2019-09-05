@@ -4,7 +4,7 @@ date = "2019-04-12T16:55:47-04:00"
 image = "/images/20190412_213348.jpg"
 imagepost = true
 publishdate = "2019-09-03T00:00:00-04:00"
-tags = [""]
+tags = ["viagens", ""]
 title = "Pós Caminho de Santiago"
 
 +++
